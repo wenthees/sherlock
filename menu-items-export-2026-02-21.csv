@@ -1,0 +1,863 @@
+ID,Kitchen Name,Item Name,Description,Category,Price,Low Price,High Price,Use Dual Pricing,Prices (JSON),Is Active
+772,"Brunch Bar","Blueberry Blender","with banana, oats, pumpkin seeds, chia seeds","Smoothie Bowls","80000","","",FALSE,"",TRUE
+773,"Brunch Bar","Chocolate-Orange Sunrise","Fresh orange, chocolate chips, dark cacao, banana, honey","Smoothie Bowls","80000","","",FALSE,"",TRUE
+774,"Brunch Bar","Nuts, Seeds and Dried Fruits","Macadamia, Cashews, Hazelnuts, dried mango, pineapple, coconut, banana... variable combinations.","Smoothie Bowls","85000","","",FALSE,"",TRUE
+775,"Brunch Bar","Apple, Nutella","with banana, oats & chia seeds","Smoothie Bowls","75000","","",FALSE,"",TRUE
+776,"Brunch Bar","Cacao Banana","with peanuts, pumpkin seeds, oats & chia seeds","Smoothie Bowls","75000","","",FALSE,"",TRUE
+777,"Brunch Bar","Vanilla Coconut","With banana, oats or granola, choc chip, coconut flakes","Smoothie Bowls","75000","","",FALSE,"",TRUE
+778,"Brunch Bar","Avocado","with banana, honey, oats, chia seeds","Smoothie Bowls","75000","","",FALSE,"",TRUE
+781,"Brunch Bar","Special Smoothie Bowl of the Day","Ask for details","Smoothie Bowls","77000","","",FALSE,"",TRUE
+771,"Brunch Bar","Mango, Pineapple, Passionfruit Paradise","with banana, honey, oats","Smoothie Bowls","80000","","",FALSE,"",TRUE
+784,"Brunch Bar","Your choice","Mango / Passionfruit / Pineapple / Orange / Watermelon / Avocado / Strawberry / Kiwi / Apple / Raisins / Nuts / Granola / Oats / Muesli / Yogurt / Kefir","Fruit Bowls","0","","",FALSE,"",TRUE
+785,"Brunch Bar","Yogurt Bowl","Homemade No added sugar or flavouring","Yogurt / Kefir","30000","","",FALSE,"",TRUE
+786,"Brunch Bar","Chopped fresh fruit add-on","+ Chopped fresh fruit (x1)","Yogurt / Kefir","20000","","",FALSE,"",TRUE
+787,"Brunch Bar","Granola / Muesli add-on","+ Granola / Muesli","Yogurt / Kefir","10000","","",FALSE,"",TRUE
+788,"Brunch Bar","Kefir bowl","Homemade No added sugar or flavouring","Yogurt / Kefir","35000","","",FALSE,"",TRUE
+789,"Brunch Bar","Big English Breakfast","Bacon, egg, sausage, Heinz beans, fried-onions, tomato, brown toast","Bacon & Eggs","98000","","",FALSE,"",TRUE
+790,"Brunch Bar","Breakfast Banger Bacon Burger","'Banger' sausage-meat burger, with layers of bacon, egg, cheese, onions, in a burger bap","Bacon & Eggs","90000","","",FALSE,"",TRUE
+791,"Brunch Bar","Breakfast Ham Bacon Burger","Sliced smoked ham with layers of ham, bacon, egg, cheese, onions, in a burger bap","Bacon & Eggs","80000","","",FALSE,"",TRUE
+792,"Brunch Bar","Muffin Ham Bacon Brunch","Slice of ham, bacon, fried egg, lettuce and tomato, mayo garlic sauce in an English muffin","Bacon & Eggs","80000","","",FALSE,"",TRUE
+793,"Brunch Bar","Egg Benedict Royal","Poached egg on a smoked salmon slice on an English muffin, fresh Hollandaise sauce, & Parmesan on top + Extra egg - 9,000","Bacon & Eggs","110000","","",FALSE,"",TRUE
+794,"Brunch Bar","Egg Benedict","Poached egg on a ham slice on an English muffin, fresh Hollandaise sauce, & Parmesan on top + Extra egg - 9,000","Bacon & Eggs","75000","","",FALSE,"",TRUE
+795,"Brunch Bar","Egg Bene... ""Dong Vui""","Poached egg on a slice of ham, bacon, on an English muffin fresh mustard sauce, & Parmesan on top + 1 Extra egg + 9,000","Bacon & Eggs","80000","","",FALSE,"",TRUE
+796,"Brunch Bar","Egg Florentine","Poached egg on a bed of spinach, on an English muffin fresh hollandaise sauce, & Parmesan on top + 1 Extra egg + 9,000","Bacon & Eggs","75000","","",FALSE,"",TRUE
+797,"Brunch Bar","Big 3-Egg Omelette","3 Eggs, Sweet Peppers, Tomato, Onion, Garlic add Ham & Cheddar + 35,000 add Bacon & Brie + 45,000 add Chopped Sausage +15,000","Bacon & Eggs","55000","","",FALSE,"",TRUE
+798,"Brunch Bar","Fluffy 2-Egg Omelette","2 Foamed Eggs, Sweet Peppers, Tomato, Onion, Garlic add Ham & Cheddar + 30,000 add Bacon & Brie + 40,000 add Chopped Sausage +12,000","Bacon & Eggs","45000","","",FALSE,"",TRUE
+799,"Brunch Bar","Poached Egg on Avocado toast","Poached egg on chopped avocado on buttered toast, with parmesan Choose:- English muffin or brown toast or gluten free + Extra egg, 9,000","Bacon & Eggs","50000","","",FALSE,"",TRUE
+800,"Brunch Bar","Egg Mayo Sandwich","2 chopped eggs with mayo between 2 slices of toasted home-made brown bread (or request baguette) Add chopped bacon in the egg mix +5,000","Bacon & Eggs","49000","","",FALSE,"",TRUE
+801,"Brunch Bar","Club Sandwich","Cheddar cheese & cooked ham Dijon mustard, mayonnaise, with fresh salad between 3 lightly toasted slices of homemade brown bread.","Bacon & Eggs","85000","","",FALSE,"",TRUE
+802,"Brunch Bar","""BLT"" - Bacon Lettuce Tomato sandwich","Chopped bacon with lettuce, tomato & mayonnaise between slices of toasted brown bread. (or request baguette)","Bacon & Eggs","60000","","",FALSE,"",TRUE
+803,"Brunch Bar","Toasted Bacon Sandwich","Chopped bacon, 2 slices of buttered toasted brown bread (or request baguette) With Heinz tomato ketchup / mayo","Bacon & Eggs","52000","","",FALSE,"",TRUE
+804,"Brunch Bar","Scrambled Eggs / toast","2 Eggs scrambled in milk and butter, a slice of brown toast + Extra slice of toast; 5,000 + 1 Extra egg; 9,000","Bacon & Eggs","40000","","",FALSE,"",TRUE
+805,"Brunch Bar","Op La","2 Fried eggs and a baguette, served with soya sauce. Fresh chilli on request. add Bacon +40,000 add Ham +25,000","Bacon & Eggs","35000","","",FALSE,"",TRUE
+824,"Brunch Bar","English Pancakes - Honey / Maple syrup / Chocolate Syrup","Large thin pancake with your choice of topping / filling","Other","40000","","",FALSE,"",TRUE
+825,"Brunch Bar","English Pancakes - Banana Nutella","Large thin pancake with your choice of topping / filling","Other","50000","","",FALSE,"",TRUE
+826,"Brunch Bar","English Pancakes - Nutella","Large thin pancake with your choice of topping / filling","Other","50000","","",FALSE,"",TRUE
+827,"Brunch Bar","English Pancakes - Caramelised Pineapple with honey","Large thin pancake with your choice of topping / filling","Other","45000","","",FALSE,"",TRUE
+828,"Brunch Bar","English Pancakes - Flamed Orange with maple or honey","Large thin pancake with your choice of topping / filling","Other","49000","","",FALSE,"",TRUE
+806,"Brunch Bar","Bacon wrapped halloumi rolls","6 pieces of cheese wrapped in strips of bacon with a small salad","Cheese & Ham","85000","","",FALSE,"",TRUE
+807,"Brunch Bar","Croque Monsieur","Toasted ham & cheese sandwich with Bechamel sauce, and melted cheese on top - Add fresh cut chilli on top (free) - Egg on top = Croque Madame (+9,000)","Cheese & Ham","75000","","",FALSE,"",TRUE
+808,"Brunch Bar","Filled Baguette - Ham & Cheddar","A warmed big baguette with your choice of filling (Includes lettuce, tomato, onion + garlic mayonnaise)","Cheese & Ham","50000","","",FALSE,"",TRUE
+809,"Brunch Bar","Filled Baguette - Tuna & Cheddar","A warmed big baguette with your choice of filling (Includes lettuce, tomato, onion + garlic mayonnaise)","Cheese & Ham","55000","","",FALSE,"",TRUE
+810,"Brunch Bar","Filled Baguette - Black Forest ham & Emmental cheese","A warmed big baguette with your choice of filling (Includes lettuce, tomato, onion + garlic mayonnaise)","Cheese & Ham","60000","","",FALSE,"",TRUE
+811,"Brunch Bar","Filled Baguette - Bacon & Brie","A warmed big baguette with your choice of filling (Includes lettuce, tomato, onion + garlic mayonnaise)","Cheese & Ham","60000","","",FALSE,"",TRUE
+812,"Brunch Bar","Filled Baguette - Canned Sardines with mayo","A warmed big baguette with your choice of filling (Includes lettuce, tomato, onion + garlic mayonnaise)","Cheese & Ham","60000","","",FALSE,"",TRUE
+813,"Brunch Bar","Meat & Cheese Platter","Suggested extra:- Poached egg on toast + 15,000","Cheese & Ham","0","","",FALSE,"",TRUE
+814,"Brunch Bar","Black Forest ham","Meat & Cheese Platter option","Cheese & Ham","28000","","",FALSE,"",TRUE
+815,"Brunch Bar","Parma style ham","Meat & Cheese Platter option","Cheese & Ham","28000","","",FALSE,"",TRUE
+816,"Brunch Bar","Peppered Danish Salami","Meat & Cheese Platter option","Cheese & Ham","23000","","",FALSE,"",TRUE
+817,"Brunch Bar","Danish Salami","Meat & Cheese Platter option","Cheese & Ham","21000","","",FALSE,"",TRUE
+818,"Brunch Bar","Pepperoni","Meat & Cheese Platter option","Cheese & Ham","20000","","",FALSE,"",TRUE
+819,"Brunch Bar","Chorizo","Meat & Cheese Platter option","Cheese & Ham","20000","","",FALSE,"",TRUE
+820,"Brunch Bar","Emmental","Meat & Cheese Platter option","Cheese & Ham","20000","","",FALSE,"",TRUE
+821,"Brunch Bar","Brie","Meat & Cheese Platter option","Cheese & Ham","22000","","",FALSE,"",TRUE
+822,"Brunch Bar","Gouda","Meat & Cheese Platter option","Cheese & Ham","20000","","",FALSE,"",TRUE
+823,"Brunch Bar","Cheddar","Meat & Cheese Platter option","Cheese & Ham","19000","","",FALSE,"",TRUE
+782,"Brunch Bar","Strawberry & Apple","With oats/ granola, nuts, raisins","Fruit Bowls","80000","","",FALSE,"",TRUE
+783,"Brunch Bar","Kiwi & Apple","With oats/ granola, nuts, raisins","Fruit Bowls","85000","","",FALSE,"",TRUE
+829,"Brunch Bar","English Pancakes - Banana with honey / maple / choc","Large thin pancake with your choice of topping / filling","Other","45000","","",FALSE,"",TRUE
+830,"Brunch Bar","English Pancakes - Mango with honey / maple / choc","Large thin pancake with your choice of topping / filling","Other","45000","","",FALSE,"",TRUE
+831,"Brunch Bar","English Pancakes - Gorgonzola, cashew nuts & raisins","Large thin pancake with your choice of topping / filling","Other","75000","","",FALSE,"",TRUE
+832,"Brunch Bar","English Pancakes - Ham & Gorgonzola","Large thin pancake with your choice of topping / filling","Other","85000","","",FALSE,"",TRUE
+833,"Brunch Bar","English Pancakes - Ham & Cheddar","Large thin pancake with your choice of topping / filling","Other","65000","","",FALSE,"",TRUE
+834,"Brunch Bar","English Pancakes - Ham & Blue Cheese","Large thin pancake with your choice of topping / filling","Other","70000","","",FALSE,"",TRUE
+835,"Brunch Bar","English Pancakes - Bacon & Brie","Large thin pancake with your choice of topping / filling","Other","75000","","",FALSE,"",TRUE
+836,"Brunch Bar","Waffles (2) with fruit and syrup","Choose your toppings: Caramelised pineapple, Flamed orange, Nutella (+5,000), Butter baked banana, Fresh mango, Choose a syrup: Honey, Maple, Chocolate","Other","45000","","",FALSE,"",TRUE
+837,"Brunch Bar","Brown Toast - Butter","Slice of lightly toasted brown bread with your choice","Other","0","","",FALSE,"",TRUE
+838,"Brunch Bar","Brown Toast - Poached egg","Slice of lightly toasted brown bread with your choice","Other","20000","","",FALSE,"",TRUE
+839,"Brunch Bar","Brown Toast - Fried egg","Slice of lightly toasted brown bread with your choice","Other","20000","","",FALSE,"",TRUE
+841,"Brunch Bar","Brown Toast - Jams","Slice of lightly toasted brown bread with your choice","Other","20000","","",FALSE,"",TRUE
+840,"Brunch Bar","Brown Toast - Baked beans","Slice of lightly toasted brown bread with your choice","Other","30000","","",FALSE,"",TRUE
+842,"Brunch Bar","Brown Toast - Nutella","Slice of lightly toasted brown bread with your choice","Other","25000","","",FALSE,"",TRUE
+843,"Brunch Bar","Brown Toast - Melted Cheddar","Slice of lightly toasted brown bread with your choice","Other","25000","","",FALSE,"",TRUE
+844,"Brunch Bar","French Toast","Classic eggy bread with vanilla, cinnamon, sprinkled sugar or honey + Chopped fresh fruit (x1) + 15,000","Other","45000","","",FALSE,"",TRUE
+845,"Brunch Bar","Sardines on Toast","2 Pieces of canned Latvian Sardines, 2 slices of toast, mayo, tomato, fresh onion. ...add more sardine +20,000","Other","70000","","",FALSE,"",TRUE
+846,"Brunch Bar","Hot Dog","Big English style pork sausage, fried onions, tomato, in a strong white bread roll with mustard and ketchup","Other","73000","","",FALSE,"",TRUE
+847,"Brunch Bar","Carrot & Ginger Cream Soup","Delicious combination (hot)","Other","45000","","",FALSE,"",TRUE
+945,"Thanh's Steakhouse","Tenderloin 200gr","Premium beef tenderloin, grilled to perfection","Steaks","210000","","",FALSE,"",TRUE
+946,"Thanh's Steakhouse","Ribeye 200gr","Marbled ribeye steak with rich flavor","Steaks","210000","","",FALSE,"",TRUE
+947,"Thanh's Steakhouse","Striploin 200gr","Lean striploin steak, tender and flavorful","Steaks","210000","","",FALSE,"",TRUE
+949,"Thanh's Steakhouse","T-Bone Beef 450gr","Large T-bone steak with both tenderloin and strip","Steaks","400000","","",FALSE,"",TRUE
+950,"Thanh's Steakhouse","Lamb 200gr","Tender grilled lamb with herbs","Steaks","220000","","",FALSE,"",TRUE
+951,"Thanh's Steakhouse","Ribeye Bone 350gr","Premium ribeye on the bone, extra juicy","Steaks","350000","","",FALSE,"",TRUE
+952,"Thanh's Steakhouse","Boiled Spaghetti","Simple boiled spaghetti pasta","Pasta","30000","","",FALSE,"",TRUE
+953,"Thanh's Steakhouse","Spaghetti Tomato","Spaghetti with fresh tomato sauce","Pasta","50000","","",FALSE,"",TRUE
+954,"Thanh's Steakhouse","Spaghetti Vegetable","Spaghetti with mixed vegetables","Pasta","85000","","",FALSE,"",TRUE
+955,"Thanh's Steakhouse","Spaghetti Bolognese","Classic spaghetti with meat sauce","Pasta","150000","","",FALSE,"",TRUE
+956,"Thanh's Steakhouse","Spaghetti with Seafood","Spaghetti with mixed seafood","Pasta","165000","","",FALSE,"",TRUE
+957,"Thanh's Steakhouse","Spaghetti with Chicken","Spaghetti with grilled chicken pieces","Pasta","110000","","",FALSE,"",TRUE
+958,"Thanh's Steakhouse","Lasagna Bolognese","Traditional lasagna with meat sauce","Pasta","185000","","",FALSE,"",TRUE
+959,"Thanh's Steakhouse","Lasagna Chicken","Lasagna with chicken and cheese","Pasta","155000","","",FALSE,"",TRUE
+960,"Thanh's Steakhouse","Lasagna Seafood","Lasagna with mixed seafood","Pasta","185000","","",FALSE,"",TRUE
+961,"Thanh's Steakhouse","Spaghetti Carbonara","Creamy spaghetti with bacon and egg","Pasta","150000","","",FALSE,"",TRUE
+962,"Thanh's Steakhouse","Spaghetti with Seafood Cream","Spaghetti with seafood in cream sauce","Pasta","165000","","",FALSE,"",TRUE
+963,"Thanh's Steakhouse","Spaghetti with Chicken Cream","Spaghetti with chicken in cream sauce","Pasta","110000","","",FALSE,"",TRUE
+964,"Thanh's Steakhouse","Spaghetti with Beef Cream","Spaghetti with beef in cream sauce","Pasta","135000","","",FALSE,"",TRUE
+965,"Thanh's Steakhouse","Spaghetti with Salmon","Spaghetti with fresh salmon","Pasta","125000","","",FALSE,"",TRUE
+966,"Thanh's Steakhouse","Spaghetti with Chicken Pesto","Spaghetti with chicken in pesto sauce","Pasta","110000","","",FALSE,"",TRUE
+967,"Thanh's Steakhouse","Spaghetti with Seafood Pesto","Spaghetti with seafood in pesto sauce","Pasta","165000","","",FALSE,"",TRUE
+968,"Thanh's Steakhouse","Spaghetti with Salmon Pesto","Spaghetti with salmon in pesto sauce","Pasta","165000","","",FALSE,"",TRUE
+969,"Thanh's Steakhouse","Spaghetti Vegetable Pesto","Spaghetti with vegetables in pesto sauce","Pasta","85000","","",FALSE,"",TRUE
+970,"Thanh's Steakhouse","Chicken Thigh in Honey Sauce","Grilled chicken thigh with honey BBQ glaze. Served with rice or potato and salad","Chicken","85000","","",FALSE,"",TRUE
+971,"Thanh's Steakhouse","Chicken Thigh in 5 Spices","Aromatic chicken thigh with 5-spice seasoning. Served with rice or potato and salad","Chicken","85000","","",FALSE,"",TRUE
+972,"Thanh's Steakhouse","Chicken Thigh in Lemongrass and Chili","Spicy chicken thigh with lemongrass and chili. Served with rice or potato and salad","Chicken","85000","","",FALSE,"",TRUE
+973,"Thanh's Steakhouse","Grilled Chicken in BBQ Sauce","Tender grilled chicken with BBQ sauce. Served with rice or potato and salad","Chicken","85000","","",FALSE,"",TRUE
+974,"Thanh's Steakhouse","Chicken Fillet with Garlic Butter","Tender chicken fillet with aromatic garlic butter. Served with rice or potato and salad","Chicken","85000","","",FALSE,"",TRUE
+975,"Thanh's Steakhouse","Chicken Fillet with Cheese Sauce","Grilled chicken fillet topped with rich cheese sauce. Served with rice or potato and salad","Chicken","85000","","",FALSE,"",TRUE
+976,"Thanh's Steakhouse","Chicken Fillet with Pepper Sauce","Spicy chicken fillet with black pepper sauce. Served with rice or potato and salad","Chicken","85000","","",FALSE,"",TRUE
+977,"Thanh's Steakhouse","Chicken Fillet with Mashed Potatoes","Grilled chicken fillet served with creamy mashed potatoes. Includes salad","Chicken","85000","","",FALSE,"",TRUE
+978,"Thanh's Steakhouse","Sautéed Chicken with Cashews","Stir-fried chicken with crunchy cashew nuts and vegetables","Chicken","85000","","",FALSE,"",TRUE
+979,"Thanh's Steakhouse","Chicken Fried with Lemongrass and Chili","Spicy stir-fried chicken with aromatic lemongrass and chili","Chicken","85000","","",FALSE,"",TRUE
+980,"Thanh's Steakhouse","Whole Chicken BBQ (Half Portion)","Half portion of whole grilled chicken with BBQ seasoning","Chicken","150000","","",FALSE,"",TRUE
+981,"Thanh's Steakhouse","Whole Duck BBQ (Half Portion)","Half portion of whole grilled duck with special seasoning","Chicken","300000","","",FALSE,"",TRUE
+982,"Thanh's Steakhouse","Grilled Salmon","Fresh grilled salmon fillet with vegetables. Served with rice or potato and salad.","Seafood","180000","","",FALSE,"",TRUE
+983,"Thanh's Steakhouse","Grilled Tuna","Fresh tuna steak grilled to perfection. Served with rice or potato and salad.","Seafood","150000","","",FALSE,"",TRUE
+984,"Thanh's Steakhouse","Grilled Cobia Fish","Fresh cobia fish fillet grilled with herbs. Served with rice or potato and salad.","Seafood","150000","","",FALSE,"",TRUE
+985,"Thanh's Steakhouse","Local Fish Fillet","Fresh local fish fillet grilled to perfection. Served with rice or potato and salad.","Seafood","105000","","",FALSE,"",TRUE
+986,"Thanh's Steakhouse","Smoked Pork Ribs","Tender smoked pork ribs with BBQ sauce. Served with rice or potato and salad.","Seafood","205000","","",FALSE,"",TRUE
+987,"Thanh's Steakhouse","Beef Satay","Grilled beef skewers with peanut sauce. Served with rice or potato and salad.","Beef Dishes","85000","","",FALSE,"",TRUE
+988,"Thanh's Steakhouse","Olive Salad","Fresh mixed greens with olives, tomatoes, and Mediterranean dressing","Salads","85000","","",FALSE,"",TRUE
+989,"Thanh's Steakhouse","Salmon Shuba Salad","Layered salmon salad with vegetables and creamy dressing","Salads","110000","","",FALSE,"",TRUE
+990,"Thanh's Steakhouse","Greek Salad","Traditional Greek salad with feta cheese, olives, tomatoes, and olive oil","Salads","125000","","",FALSE,"",TRUE
+991,"Thanh's Steakhouse","Avocado Tuna Salad","Fresh tuna with avocado, mixed greens, and citrus dressing","Salads","110000","","",FALSE,"",TRUE
+992,"Thanh's Steakhouse","Avocado Chicken Salad","Grilled chicken with avocado, mixed greens, and ranch dressing","Salads","85000","","",FALSE,"",TRUE
+993,"Thanh's Steakhouse","Avocado Salmon Salad","Grilled salmon with avocado, mixed greens, and lemon dressing","Salads","165000","","",FALSE,"",TRUE
+994,"Thanh's Steakhouse","Caesar Salad with Tuna","Classic Caesar salad topped with fresh tuna","Salads","110000","","",FALSE,"",TRUE
+995,"Thanh's Steakhouse","Caesar Salad with Chicken","Classic Caesar salad topped with grilled chicken","Salads","85000","","",FALSE,"",TRUE
+996,"Thanh's Steakhouse","Caesar Salad with Shrimps","Classic Caesar salad topped with grilled shrimps","Salads","125000","","",FALSE,"",TRUE
+997,"Thanh's Steakhouse","Caesar Salad with Seafood","Classic Caesar salad topped with mixed seafood","Salads","125000","","",FALSE,"",TRUE
+998,"Thanh's Steakhouse","Pumpkin Cream Soup","Creamy pumpkin soup with herbs and croutons","Soups","60000","","",FALSE,"",TRUE
+999,"Thanh's Steakhouse","Potato Cream Soup","Rich and creamy potato soup with bacon bits","Soups","60000","","",FALSE,"",TRUE
+1000,"Thanh's Steakhouse","Tomato Cream Soup","Fresh tomato cream soup with basil","Soups","60000","","",FALSE,"",TRUE
+1001,"Thanh's Steakhouse","Borscht Soup","Traditional beetroot soup with sour cream","Soups","80000","","",FALSE,"",TRUE
+1002,"Thanh's Steakhouse","Solyanka Soup (Kvass Style)","Traditional Russian soup with mixed meats and pickles","Soups","120000","","",FALSE,"",TRUE
+1003,"Thanh's Steakhouse","Okroshka Soup","Cold Russian soup with vegetables and kvass","Soups","100000","","",FALSE,"",TRUE
+1004,"Thanh's Steakhouse","Beef in BBQ Sauce","Tender beef steak with BBQ sauce. Served with vegetables and potatoes.","Beef Dishes","110000","","",FALSE,"",TRUE
+1005,"Thanh's Steakhouse","Beef in Red Wine Sauce","Beef stewed in red wine with herbs and vegetables","Beef Dishes","110000","","",FALSE,"",TRUE
+1006,"Thanh's Steakhouse","Beef in Pepper Sauce","Beef steak with creamy black pepper sauce","Beef Dishes","110000","","",FALSE,"",TRUE
+1007,"Thanh's Steakhouse","Beef in Cheese Sauce","Beef steak topped with rich cheese sauce","Beef Dishes","110000","","",FALSE,"",TRUE
+1008,"Thanh's Steakhouse","Beef in Mushroom Sauce","Beef steak with creamy mushroom sauce","Beef Dishes","110000","","",FALSE,"",TRUE
+1009,"Thanh's Steakhouse","Beef Stewed with Vegetables","Tender beef stewed with mixed vegetables","Beef Dishes","110000","","",FALSE,"",TRUE
+1010,"Thanh's Steakhouse","Beef Sautéed with Onions","Beef strips sautéed with caramelized onions","Beef Dishes","110000","","",FALSE,"",TRUE
+1011,"Thanh's Steakhouse","Smoked Duck Salad","Fresh salad with smoked duck breast and mixed greens","Duck","85000","","",FALSE,"",TRUE
+1012,"Thanh's Steakhouse","Grilled Smoked Duck","Smoked duck breast grilled to perfection with herbs","Duck","155000","","",FALSE,"",TRUE
+1013,"Thanh's Steakhouse","Grilled Duck Thigh","Tender duck thigh grilled with special seasoning","Duck","155000","","",FALSE,"",TRUE
+1014,"Thanh's Steakhouse","Smoked Chicken Vinegar Oil Salad","Smoked chicken salad with vinegar oil dressing","Duck","85000","","",FALSE,"",TRUE
+1015,"Thanh's Steakhouse","Caesar Salad with Smoked Chicken","Caesar salad topped with smoked chicken breast","Duck","85000","","",FALSE,"",TRUE
+1016,"Thanh's Steakhouse","Grilled Smoked Chicken Breast","Smoked chicken breast grilled with herbs and spices","Duck","110000","","",FALSE,"",TRUE
+1017,"Thanh's Steakhouse","Pork Pelmeni","Traditional Russian pork dumplings. Served steamed, fried, or in soup.","Pelmeni","65000","","",FALSE,"",TRUE
+1018,"Thanh's Steakhouse","Chicken Pelmeni","Traditional Russian chicken dumplings. Served steamed, fried, or in soup.","Pelmeni","65000","","",FALSE,"",TRUE
+1019,"Thanh's Steakhouse","Beef Pelmeni","Traditional Russian beef dumplings. Served steamed, fried, or in soup.","Pelmeni","65000","","",FALSE,"",TRUE
+1020,"Thanh's Steakhouse","Pork Pelmeni Soup","Pork pelmeni served in hot broth with herbs","Pelmeni","35000","","",FALSE,"",TRUE
+1021,"Thanh's Steakhouse","Chicken Pelmeni Soup","Chicken pelmeni served in hot broth with herbs","Pelmeni","35000","","",FALSE,"",TRUE
+1022,"Thanh's Steakhouse","Beef Pelmeni Soup","Beef pelmeni served in hot broth with herbs","Pelmeni","35000","","",FALSE,"",TRUE
+1023,"Thanh's Steakhouse","Draniki Style Russian","Traditional Russian potato pancakes with fried potatoes, eggs, and sour cream","Pelmeni","55000","","",FALSE,"",TRUE
+1024,"Thanh's Steakhouse","","","Pelmeni","40000","","",FALSE,"",TRUE
+1025,"Thanh's Steakhouse","Pork Kotlet Style Russia","Traditional Russian-style pork kotlet with herbs and spices","Pork","100000","","",FALSE,"",TRUE
+1026,"Thanh's Steakhouse","Roasted Pork with Rice","Slow-roasted pork served with steamed rice","Pork","100000","","",FALSE,"",TRUE
+1027,"Thanh's Steakhouse","Shashlik Pork","Traditional grilled pork shashlik with herbs and vegetables","Pork","110000","","",FALSE,"",TRUE
+1028,"Thanh's Steakhouse","Shashlik Chicken","Traditional grilled chicken shashlik with herbs and vegetables","Pork","100000","","",FALSE,"",TRUE
+1029,"Thanh's Steakhouse","Shashlik Beef","Premium grilled beef shashlik with herbs and vegetables","Pork","190000","","",FALSE,"",TRUE
+1030,"Thanh's Steakhouse","Grilled Pork Ribs with BBQ Sauce","Tender pork ribs grilled with BBQ sauce and herbs","Pork","110000","","",FALSE,"",TRUE
+1031,"Thanh's Steakhouse","Grilled Pork Ribs with Lemongrass & Chili","Spicy pork ribs with lemongrass and chili marinade","Pork","110000","","",FALSE,"",TRUE
+1032,"Thanh's Steakhouse","Vegetable Dumplings (2 pieces)","Steamed or fried vegetable dumplings with mixed vegetables","Dumplings","40000","","",FALSE,"",TRUE
+1033,"Thanh's Steakhouse","Pork Dumplings (2 pieces)","Steamed or fried pork dumplings with seasoned pork filling","Dumplings","40000","","",FALSE,"",TRUE
+1034,"Thanh's Steakhouse","Chicken Dumplings (2 pieces)","Steamed or fried chicken dumplings with seasoned chicken filling","Dumplings","45000","","",FALSE,"",TRUE
+1035,"Thanh's Steakhouse","Beef Dumplings (2 pieces)","Steamed or fried beef dumplings with seasoned beef filling","Dumplings","45000","","",FALSE,"",TRUE
+291,"The Hot Stone","Test Update","Test description","Sides & Accompaniments","60000","","",FALSE,"",TRUE
+288,"The Hot Stone","Beef (Sliced)","","Hot Stone Meats","160000","","",FALSE,"",TRUE
+286,"The Hot Stone","Chicken (Sliced)","","Hot Stone Meats","60000","","",FALSE,"",TRUE
+287,"The Hot Stone","Minced Pork","","Hot Stone Meats","80000","","",FALSE,"",TRUE
+290,"The Hot Stone","French Fries","","Sides & Accompaniments","50000","","",FALSE,"",TRUE
+292,"The Hot Stone","Mushrooms","","Sides & Accompaniments","40000","","",FALSE,"",TRUE
+294,"The Hot Stone","Combo 1","100g Beef, 100g Pork, 100g Chicken, French Fries, Chopped vegetables for grilling, Sauce","Combo Meals","200000","","",FALSE,"",TRUE
+295,"The Hot Stone","Combo 2","Kob√© Beef Steak, French Fries, Chopped vegetables for grilling, Sauce","Combo Meals","330000","","",FALSE,"",TRUE
+293,"The Hot Stone","Sauces","Mayo / Ketchup / Chili / Mustard / BBQ / Cocktail Sauce / Sweet and Sour","Sides & Accompaniments","5000","","",FALSE,"",TRUE
+289,"The Hot Stone","Kobe Beef (Premium Steak)","Best Kobe beef steak","Hot Stone Meats","250000","","",FALSE,"",TRUE
+399,"Funky","Burger - Lamb","Lamb, bacon, cheese, chips","Burgers","110000","","",FALSE,"",TRUE
+389,"Funky","Mixed Steamed Rice - Seafood","Seafood (shrimp, squid), egg, kimchi, corn, seaweed","Rice Dishes","95000","","",FALSE,"",TRUE
+402,"Funky","Fresh Tuna Baguette","Fresh tuna, cheese","Sandwiches & Flatbreads","110000","","",FALSE,"",TRUE
+409,"Funky","Pesto Tagliatelle","Pesto sauce, Burrata cheese, parmesan cheese","Udon & Noodles","160000","","",FALSE,"",TRUE
+411,"Funky","Bolognese Tagliatelle","Bolognese sauce, Burrata cheese, parmesan cheese","Udon & Noodles","190000","","",FALSE,"",TRUE
+370,"Funky","Stir-fried Udon Chicken","-","Udon & Noodles","80000","","",FALSE,"",TRUE
+371,"Funky","Stir-fried Udon Beef","-","Udon & Noodles","90000","","",FALSE,"",TRUE
+373,"Funky","Stir-fried Udon Tofu","-","Udon & Noodles","70000","","",FALSE,"",TRUE
+374,"Funky","Soup Udon Chicken","Chicken, egg, kimchi, seaweed, corn","Soups","80000","","",FALSE,"",TRUE
+412,"Funky","Carbonara Tagliatelle","Carbonara sauce, Burrata cheese, parmesan cheese","Udon & Noodles","180000","","",FALSE,"",TRUE
+407,"Funky","Fresh Tuna Flat Bread","Fresh tuna, tomatoes, cheese","Sandwiches & Flatbreads","95000","","",FALSE,"",TRUE
+408,"Funky","Chicken Flat Bread","Chicken, tomatoes, cheese","Sandwiches & Flatbreads","80000","","",FALSE,"",TRUE
+431,"Funky","Fresh Tuna Ciabatta","Fresh tuna, tomatoes, cheese, pesto sauce, cream cheese sauce","Sandwiches & Flatbreads","95000","","",FALSE,"",TRUE
+433,"Funky","Chicken Ciabatta","Chicken, tomatoes, cheese, pesto sauce, cream cheese sauce","Sandwiches & Flatbreads","85000","","",FALSE,"",TRUE
+434,"Funky","Black Ham Ciabatta","Black ham, tomatoes, cheese, pesto sauce, cream cheese sauce","Sandwiches & Flatbreads","120000","","",FALSE,"",TRUE
+393,"Funky","Doner Kebab - Chicken","Chicken, cheese","Sandwiches & Flatbreads","75000","","",FALSE,"",TRUE
+396,"Funky","Burger - Fresh Tuna","Fresh tuna, chips, cheese","Burgers","90000","","",FALSE,"",TRUE
+415,"Funky","Steamed Mandu with Meat","Minced meat","Dumplings & Mandu","80000","","",FALSE,"",TRUE
+377,"Funky","BBQ Pork Ribs","BBQ pork ribs, corn, salad","Steaks & Grilled","120000","","",FALSE,"",TRUE
+379,"Funky","Pan-fried Smoked Duck Breast","Bok choy, sautéed potatoes, BBQ sauce","Steaks & Grilled","135000","","",FALSE,"",TRUE
+381,"Funky","Funky Steamed Rice - Smoked Duck Breast","Smoked duck breast, egg, kimchi, seaweed, salad","Rice Dishes","120000","","",FALSE,"",TRUE
+382,"Funky","Spicy Cheese Rice - Chicken","Chicken, cheese, steamed rice","Rice Dishes","85000","","",FALSE,"",TRUE
+384,"Funky","Spicy Cheese Rice - Beef","Beef, cheese, steamed rice","Rice Dishes","95000","","",FALSE,"",TRUE
+385,"Funky","Spicy Cheese Rice - Tuna","Tuna, cheese, steamed rice","Rice Dishes","125000","","",FALSE,"",TRUE
+386,"Funky","Spicy Cheese Rice - Smoked Duck Breast","Smoked duck breast, cheese, steamed rice","Rice Dishes","120000","","",FALSE,"",TRUE
+397,"Funky","Burger - Chicken","Chicken, chips, cheese","Burgers","85000","","",FALSE,"",TRUE
+398,"Funky","Burger - Beef","Beef, egg, cheese, chips","Burgers","90000","","",FALSE,"",TRUE
+400,"Funky","Burger - Fresh Salmon","Fresh salmon, bacon, cheese, chips","Burgers","135000","","",FALSE,"",TRUE
+401,"Funky","Beef Baguette","Beef, cheese","Sandwiches & Flatbreads","90000","","",FALSE,"",TRUE
+403,"Funky","Fresh Salmon Baguette","Fresh salmon, cheese","Sandwiches & Flatbreads","120000","","",FALSE,"",TRUE
+394,"Funky","Doner Kebab - Beef","Beef, cheese","Sandwiches & Flatbreads","80000","","",FALSE,"",TRUE
+395,"Funky","Doner Kebab - Lamb Meat","Lamb meat, cheese","Sandwiches & Flatbreads","100000","","",FALSE,"",TRUE
+404,"Funky","Chicken Baguette","Chicken, cheese","Sandwiches & Flatbreads","85000","","",FALSE,"",TRUE
+413,"Funky","Italian Sausage with Rice","Sausages, cheese, tomato sauce, steamed rice","Specialties","110000","","",FALSE,"",TRUE
+414,"Funky","Steamed Mandu with Seafood","Seafood","Dumplings & Mandu","90000","","",FALSE,"",TRUE
+417,"Funky","Tuna Steak with Green Pepper Sauce","Pan-fried tuna steak, sautéed potatoes, salad, green pepper sauce","Steaks & Grilled","125000","","",FALSE,"",TRUE
+419,"Funky","Beef Steak 250gr","Beef steak, potatoes, french fries, salad, blue cheese sauce","Steaks & Grilled","145000","","",FALSE,"",TRUE
+420,"Funky","Mushroom Soup and Cheese","Mushroom soup with cheese","Soups","50000","","",FALSE,"",TRUE
+388,"Funky","Mixed Steamed Rice - Beef","Beef, egg, kimchi, corn, seaweed","Rice Dishes","90000","","",FALSE,"",TRUE
+390,"Funky","Mixed Steamed Rice - Tofu","Tofu, egg, kimchi, corn, seaweed","Rice Dishes","70000","","",FALSE,"",TRUE
+392,"Funky","Doner Kebab - Avocado","Avocado, cheese","Sandwiches & Flatbreads","65000","","",FALSE,"",TRUE
+421,"Funky","Broccoli Soup and Cheese","Broccoli soup with cheese","Soups","45000","","",FALSE,"",TRUE
+423,"Funky","Avocado Salad","Avocado, egg, cheese","Salads","70000","","",FALSE,"",TRUE
+424,"Funky","Chicken Salad","Chicken, egg, cheese","Salads","80000","","",FALSE,"",TRUE
+425,"Funky","Beef Salad","Beef, egg, cheese","Salads","90000","","",FALSE,"",TRUE
+426,"Funky","Seafood Salad","Seafood (shrimp, squid), egg, cheese","Salads","90000","","",FALSE,"",TRUE
+428,"Funky","Fresh Salmon Salad","Fresh salmon, egg, cheese","Salads","120000","","",FALSE,"",TRUE
+429,"Funky","Smoked Duck Breast Salad","Smoked duck breast, egg, cheese","Salads","110000","","",FALSE,"",TRUE
+391,"Funky","Beef Chops - Pan-fried Beef Chops","French fries, potatoes, salad, blue cheese sauce","Steaks & Grilled","425000","","",FALSE,"",TRUE
+372,"Funky","Stir-fried Udon Seafood","Shrimp, squid","Udon & Noodles","90000","","",FALSE,"",TRUE
+375,"Funky","Soup Udon Beef","Beef, egg, kimchi, seaweed, corn","Soups","90000","","",FALSE,"",TRUE
+376,"Funky","Soup Udon Seafood","Shrimp, egg, kimchi, seaweed, corn","Soups","90000","","",FALSE,"",TRUE
+378,"Funky","Salad Smoked Duck Breast","Beetroot, cheese sauce","Salads","125000","","",FALSE,"",TRUE
+380,"Funky","Funky Steamed Rice - Chicken Leg","Chicken leg, egg, kimchi, seaweed, salad","Rice Dishes","110000","","",FALSE,"",TRUE
+383,"Funky","Spicy Cheese Rice - Seafood","Seafood (shrimp, squid), cheese, steamed rice","Rice Dishes","90000","","",FALSE,"",TRUE
+387,"Funky","Mixed Steamed Rice - Chicken","Chicken, egg, kimchi, corn, seaweed","Rice Dishes","80000","","",FALSE,"",TRUE
+405,"Funky","Avocado Flat Bread","Avocado, tomatoes, cheese","Sandwiches & Flatbreads","70000","","",FALSE,"",TRUE
+406,"Funky","Beef Flat Bread","Beef, tomatoes, cheese","Sandwiches & Flatbreads","85000","","",FALSE,"",TRUE
+410,"Funky","Seafood Pesto Tagliatelle","Seafood, pesto sauce, Burrata cheese, parmesan cheese","Udon & Noodles","190000","","",FALSE,"",TRUE
+416,"Funky","Fish & Chips with Cobia Fish","Cobia fish, french fries, salad","Specialties","100000","","",FALSE,"",TRUE
+418,"Funky","Salmon Steak with Blue Cheese Sauce","Pan-fried salmon, broccoli, mashed potatoes, blue cheese sauce","Steaks & Grilled","225000","","",FALSE,"",TRUE
+422,"Funky","Salad Burrata Cheese","Tomatoes, avocado, burrata cheese, bread, pesto sauce","Salads","145000","","",FALSE,"",TRUE
+427,"Funky","Fresh Tuna Salad","Fresh tuna, egg, cheese","Salads","90000","","",FALSE,"",TRUE
+430,"Funky","Avocado Ciabatta","Avocado, tomatoes, cheese, pesto, cream cheese sauce","Sandwiches & Flatbreads","80000","","",FALSE,"",TRUE
+432,"Funky","Beef Ciabatta","Beef, tomatoes, cheese, pesto sauce, cream cheese sauce","Sandwiches & Flatbreads","90000","","",FALSE,"",TRUE
+435,"Funky","Chocolate Mousse","Chocolate mousse and ice cream","Desserts","85000","","",FALSE,"",TRUE
+436,"Funky","Passionfruit Cheesecake","Passionfruit cheesecake and ice cream","Desserts","70000","","",FALSE,"",TRUE
+939,"An Sang","Sizzling Beef","Shredded beef on an iron plate with pâté, egg, onions, oyster sauce (Bò Né)","Beef Specialties","95,000","","",FALSE,"",TRUE
+927,"An Sang","Vermicelli Thin Noodles & Pork","Bundles of fine rice noodles with smokey grilled pork (Bánh Hỏi Nem Nướng)","Noodle Soups","65,000","","",FALSE,"",TRUE
+943,"An Sang","Mini-pancakes (Prawn, Pork or Chicken)","Small crispy pancakes with choice of prawn, pork or chicken fillings, sauce dip (Bánh Khọt Nhân Tôm / Thịt / Gà)","Specialties","70,000","","",FALSE,"",TRUE
+935,"An Sang","Rice with mushrooms and mixed vegetables","Rice with mushrooms, peppers, onions etc (Vegetarian) (Cơm Chay)","Rice Dishes","80,000","","",FALSE,"",TRUE
+924,"An Sang","Chicken Bánh Xèo","Classic fried pancake folded over chicken, bean shoots, etc, local style sweet chilli sauce (Bánh Xèo Gà)","Bánh Xèo","65,000","","",FALSE,"",TRUE
+920,"An Sang","Bánh Mì Marinated Pork","Either as a plate with baguette, or as a filled baguette. (Bánh Mì Heo Quay)","Bánh Mì","40,000","","",FALSE,"",TRUE
+944,"An Sang","Seasoned ground pork (for rolls)","Seasoned grilled pork sausage meat with vermicelli and salad. Rice paper. Dip. Speciality of Nha Trang. (Nem Phản)","Specialties","95,000","","",FALSE,"",TRUE
+921,"An Sang","Bánh Mì Chicken","Baguette properly filled with chicken, fresh vegetables, sauce. Ask for fresh chilli. (Bánh Mì Gà Xé)","Bánh Mì","40,000","","",FALSE,"",TRUE
+925,"An Sang","Seafood Bánh Xèo","Classic fried pancake folded over seafood, bean shoots, etc, local style sweet chilli sauce (Bánh Xèo Hải Sản)","Bánh Xèo","79,000","","",FALSE,"",TRUE
+928,"An Sang","Rice Cake Rolls (Prawns / Pork / Chicken)","Soft sheets of rice cake wrapped around a tasty filling and deep veg with crispy dried onions on top. (Bánh Cuốn Nhân...)","Noodle Soups","60,000","","",FALSE,"",TRUE
+936,"An Sang","Rice with grilled pork slice","Boiled White Rice with a slice of grilled pork, egg, sweet sauce (Cơm Sườn Nướng)","Rice Dishes","80,000","","",FALSE,"",TRUE
+940,"An Sang","Yellow Beef Stew","Beef pieces braised in a yellow sauce (Bò Sốt Vang)","Beef Specialties","95,000","","",FALSE,"",TRUE
+941,"An Sang","Beef Braised in Oranges","Beef pieces braised in a sauce with oranges (Bò Sốt Cam)","Beef Specialties","95,000","","",FALSE,"",TRUE
+929,"An Sang","Noodle Soup with sliced fishcake (Phở Yến style)","Thick chewy noodles in broth with compressed fishcake (Bánh Canh Chả Cá Phú Yến)","Noodle Soups","60,000","","",FALSE,"",TRUE
+937,"An Sang","Rice with shredded chicken (Phở Yến Style)","Boiled white rice with shredded chicken (Cơm Gà Phú Yến)","Rice Dishes","80,000","","",FALSE,"",TRUE
+926,"An Sang","Vegetarian Bánh Xèo","Classic fried pancake folded over mushrooms, tofu, bean shoots, etc, local style sweet chilli sauce (Bánh Xèo Chay)","Bánh Xèo","65,000","","",FALSE,"",TRUE
+922,"An Sang","Bánh Mì meatballs & sauce","Either as a plate with baguette, or as a filled baguette. (Bánh Mì Xíu Mại)","Bánh Mì","45,000","","",FALSE,"",TRUE
+930,"An Sang","Seafood Noodle soup (Phở Yến style)","Thick chewy noodles in both with seafood (Bánh Canh Hải Sản Phú Yến)","Noodle Soups","70,000","","",FALSE,"",TRUE
+942,"An Sang","Beef slice with spaghetti","Beef shreds & spaghetti in tomato sauce in Vietnamese style (Mì Ý Bò Bít Tết)","Beef Specialties","95,000","","",FALSE,"",TRUE
+938,"An Sang","Chicken rice with ""soft"" eggs","Boiled rice with chicken and ""young"" eggs (Cơm Gà Trứng Non)","Rice Dishes","80,000","","",FALSE,"",TRUE
+923,"An Sang","Bánh Mì Roasted Pork","Baguette with Smokey pork marinated with lemongrass (Bánh Mì Thịt Nướng)","Bánh Mì","40,000","","",FALSE,"",TRUE
+931,"An Sang","Rice Vermicelli with Pork","Thin rice noodles served cold with tangy warm grilled pork, sauce dip (Bún Thịt Nướng)","Noodle Soups","60,000","","",FALSE,"",TRUE
+932,"An Sang","Traditional Beef Noodle Soup","Braised beef recipe from Huế, thin noodles in broth (Bún Bò)","Noodle Soups","80,000","","",FALSE,"",TRUE
+933,"An Sang","Beef ""Pho"" Noodle Soup","Famous broth of beef and rice noodles (Phở Bò)","Noodle Soups","80,000","","",FALSE,"",TRUE
+934,"An Sang","Chicken ""Pho"" Noodle Soup","Famous broth of chicken and rice noodles (Phở Gà)","Noodle Soups","80,000","","",FALSE,"",TRUE
+684,"Vegito","Stir-Fry - Zucchini with Garlic","","Stir-Fried Vegetables","49000","","",FALSE,"",TRUE
+685,"Vegito","Stir-Fry - Potato with Mushroom","","Stir-Fried Vegetables","59000","","",FALSE,"",TRUE
+686,"Vegito","Stir-Fry - Bok Choy with Shiitake Mushroom","","Stir-Fried Vegetables","59000","","",FALSE,"",TRUE
+687,"Vegito","Stir-Fry - Cabbage, Carrot with Mushroom","","Stir-Fried Vegetables","59000","","",FALSE,"",TRUE
+688,"Vegito","Stir-Fry - Broccoli with Mushroom","","Stir-Fried Vegetables","59000","","",FALSE,"",TRUE
+689,"Vegito","Stir-Fry - Eggplant with Spring Onion","","Stir-Fried Vegetables","59000","","",FALSE,"",TRUE
+690,"Vegito","Stir-Fry - Pumpkin with Garlic","","Stir-Fried Vegetables","59000","","",FALSE,"",TRUE
+667,"Vegito","Vietnamese Summer Rolls - Fresh Salad Rolls","","Spring Rolls & Appetizers","59000","","",FALSE,"",TRUE
+668,"Vegito","Vietnamese Summer Rolls - Veggie Spring Rolls","","Spring Rolls & Appetizers","69000","","",FALSE,"",TRUE
+669,"Vegito","Vietnamese Summer Rolls - Rainbow Rolls","","Spring Rolls & Appetizers","79000","","",FALSE,"",TRUE
+670,"Vegito","Vietnamese Summer Rolls - Hot Summer Nights","","Spring Rolls & Appetizers","89000","","",FALSE,"",TRUE
+671,"Vegito","Vietnamese Summer Rolls - Colour Rolls","","Spring Rolls & Appetizers","89000","","",FALSE,"",TRUE
+718,"Vegito","Starter - Fried Young Tofu, Chilli Sauce","","Spring Rolls & Appetizers","79000","","",FALSE,"",TRUE
+752,"Vegito","New - Steamed Tofu with Salt, Pepper, Lemon, Laksa","","Grilled & Pan-Fried","49000","","",FALSE,"",TRUE
+708,"Vegito","Clay Pot - Braised Tofu & King Oyster Mushroom with Ginger","","Clay Pot Dishes","69000","","",FALSE,"",TRUE
+666,"Vegito","Dessert - Mango Sticky Rice","","Desserts","60000","","",FALSE,"",TRUE
+665,"Vegito","Main - Vegan Pad Thai","","Tofu Specialties","79000","","",FALSE,"",TRUE
+672,"Vegito","Ravioli Dumpling - Fried Ravioli (10pcs)","","Dumplings & Ravioli","79000","","",FALSE,"",TRUE
+691,"Vegito","Best Main - Noodle Bowl Salad","","Signature Dishes","59000","","",FALSE,"",TRUE
+692,"Vegito","Best Main - Famous Noodle Dish","","Signature Dishes","79000","","",FALSE,"",TRUE
+693,"Vegito","Best Main - B√°nh X√®o Pancake","","Signature Dishes","79000","","",FALSE,"",TRUE
+694,"Vegito","Best Main - Rice Bowl","","Signature Dishes","69000","","",FALSE,"",TRUE
+682,"Vegito","Stir-Fry - Cabbage with Garlic","","Stir-Fried Vegetables","39000","","",FALSE,"",TRUE
+683,"Vegito","Stir-Fry - Cauliflower, Onion, Carrot with Basil","","Stir-Fried Vegetables","49000","","",FALSE,"",TRUE
+675,"Vegito","Salad - Lotus Sprouts Salad","","Fresh Salads","79000","","",FALSE,"",TRUE
+676,"Vegito","Salad - Green Papaya Salad","","Fresh Salads","79000","","",FALSE,"",TRUE
+677,"Vegito","Salad - Mixed Cabbage & Onion","","Fresh Salads","69000","","",FALSE,"",TRUE
+678,"Vegito","Salad - Abalone Mushroom Salad","","Fresh Salads","79000","","",FALSE,"",TRUE
+679,"Vegito","Salad - Mushroom & Tofu Salad","","Fresh Salads","79000","","",FALSE,"",TRUE
+680,"Vegito","Salad - Mixed Tofu Sesame Dressing","","Fresh Salads","69000","","",FALSE,"",TRUE
+673,"Vegito","Ravioli Dumpling - Steamed Ravioli (10pcs)","","Dumplings & Ravioli","79000","","",FALSE,"",TRUE
+674,"Vegito","Ravioli Dumpling - Noodle & Ravioli Soup","","Dumplings & Ravioli","79000","","",FALSE,"",TRUE
+698,"Vegito","Soup - Vegetable Soup","","Soups","59000","","",FALSE,"",TRUE
+699,"Vegito","Soup - Vegan Chives & Young Tofu Soup with Mushroom","","Soups","69000","","",FALSE,"",TRUE
+700,"Vegito","Soup - Tomato Soup with Tofu & Dill","","Soups","59000","","",FALSE,"",TRUE
+701,"Vegito","Soup - Sour & Sweet Soup","","Soups","69000","","",FALSE,"",TRUE
+695,"Vegito","Best Main - Grilled Mushroom with Noodle Salad","","Signature Dishes","79000","","",FALSE,"",TRUE
+703,"Vegito","Clay Pot - Braised Mushroom & Tofu","","Clay Pot Dishes","79000","","",FALSE,"",TRUE
+704,"Vegito","Clay Pot - Braised Mushroom, Tofu, Vegetable","","Clay Pot Dishes","69000","","",FALSE,"",TRUE
+705,"Vegito","Clay Pot - Braised Abalone Mushroom with Lemongrass","","Clay Pot Dishes","69000","","",FALSE,"",TRUE
+706,"Vegito","Clay Pot - Braised Tofu & Bamboo Shoot","","Clay Pot Dishes","69000","","",FALSE,"",TRUE
+707,"Vegito","Clay Pot - Braised Tofu, Eggplant & Bell Pepper","","Clay Pot Dishes","69000","","",FALSE,"",TRUE
+711,"Vegito","Starter - Fried Springrolls (10pcs)","","Spring Rolls & Appetizers","59000","","",FALSE,"",TRUE
+712,"Vegito","Starter - Fried Corn Cake (5pcs)","","Spring Rolls & Appetizers","69000","","",FALSE,"",TRUE
+713,"Vegito","Starter - Fried Enokitake Mushroom","","Spring Rolls & Appetizers","79000","","",FALSE,"",TRUE
+714,"Vegito","Starter - Fried Abalone Mushrooms","","Spring Rolls & Appetizers","79000","","",FALSE,"",TRUE
+715,"Vegito","Starter - Fried Okra","","Spring Rolls & Appetizers","49000","","",FALSE,"",TRUE
+716,"Vegito","Starter - Fried Eggplant","","Spring Rolls & Appetizers","49000","","",FALSE,"",TRUE
+717,"Vegito","Starter - Fried Young Tofu with Spring Onion","","Spring Rolls & Appetizers","79000","","",FALSE,"",TRUE
+702,"Vegito","Soup - Lotus Seeds & Vegetable Soup","","Soups","79000","","",FALSE,"",TRUE
+725,"Vegito","Main - Sauteed Tofu with Lemongrass & Chilli","","Tofu Specialties","69000","","",FALSE,"",TRUE
+726,"Vegito","Main - Sauteed Tofu with Sweet & Sour Sauce","","Tofu Specialties","79000","","",FALSE,"",TRUE
+727,"Vegito","Main - Sauteed Tofu with Ginger & Rice","","Tofu Specialties","69000","","",FALSE,"",TRUE
+728,"Vegito","Main - Sauteed Mushroom with Lemongrass & Chilli","","Tofu Specialties","79000","","",FALSE,"",TRUE
+729,"Vegito","Main - Simmered Tofu with Soybean & Sesame Sauce","","Tofu Specialties","69000","","",FALSE,"",TRUE
+730,"Vegito","Main - Simmered Red Mushroom with Soy & Honey Sauce","","Tofu Specialties","79000","","",FALSE,"",TRUE
+696,"Vegito","Best Main - Noodle & Tofu Bowl","","Signature Dishes","59000","","",FALSE,"",TRUE
+697,"Vegito","Best Main - Special Noodle Bowl","","Signature Dishes","79000","","",FALSE,"",TRUE
+738,"Vegito","Rice - Fried with Tofu & Vegetable","","Rice Dishes","59000","","",FALSE,"",TRUE
+739,"Vegito","Rice - Fried with Seaweed & Vegetable","","Rice Dishes","79000","","",FALSE,"",TRUE
+740,"Vegito","Rice - Fried with Lotus Seeds & Vegetable","","Rice Dishes","79000","","",FALSE,"",TRUE
+741,"Vegito","Rice - Fried with Garlic & Sesame","","Rice Dishes","59000","","",FALSE,"",TRUE
+742,"Vegito","Rice - Fried Mixed Vegetable","","Rice Dishes","69000","","",FALSE,"",TRUE
+743,"Vegito","Rice - Steamed Brown","","Rice Dishes","20000","","",FALSE,"",TRUE
+744,"Vegito","Rice - Steamed White","","Rice Dishes","10000","","",FALSE,"",TRUE
+745,"Vegito","New - Okra with Garlic","","Grilled & Pan-Fried","49000","","",FALSE,"",TRUE
+746,"Vegito","New - String Beans with Garlic","","Grilled & Pan-Fried","49000","","",FALSE,"",TRUE
+747,"Vegito","New - Grilled Eggplant with Onion Fat","","Grilled & Pan-Fried","59000","","",FALSE,"",TRUE
+748,"Vegito","New - Grilled Corn with Onion Fat","","Grilled & Pan-Fried","39000","","",FALSE,"",TRUE
+749,"Vegito","New - Shiitake Mushrooms Grilled with Onion Fat","","Grilled & Pan-Fried","69000","","",FALSE,"",TRUE
+750,"Vegito","New - Tofu with Onion Sauce","","Grilled & Pan-Fried","59000","","",FALSE,"",TRUE
+751,"Vegito","New - Pan Fried Enoki with Sesame Soy Sauce","","Grilled & Pan-Fried","79000","","",FALSE,"",TRUE
+765,"Vegito","Fried Noodle - Stir Fried Flat Noodle with Tofu & Vegetable","","Stir-Fried Noodles","69000","","",FALSE,"",TRUE
+719,"Vegito","Noodle Soup - Pho Vegan","","Noodle Soups","69000","","",FALSE,"",TRUE
+720,"Vegito","Noodle Soup - Spicy Noodle Soup","","Noodle Soups","69000","","",FALSE,"",TRUE
+721,"Vegito","Noodle Soup - Bamboo Noodle Soup","","Noodle Soups","69000","","",FALSE,"",TRUE
+722,"Vegito","Noodle Soup - M√¨ Qu·∫£ng Chay","","Noodle Soups","69000","","",FALSE,"",TRUE
+723,"Vegito","Noodle Soup - Fresh Noodle Soup","","Noodle Soups","69000","","",FALSE,"",TRUE
+724,"Vegito","Noodle Soup - Crab Noodle Soup","","Noodle Soups","69000","","",FALSE,"",TRUE
+766,"Vegito","Fried Noodle - Stir Fried Cassava Vermicelli with Tofu & Vegetable","","Stir-Fried Noodles","69000","","",FALSE,"",TRUE
+767,"Vegito","Fried Noodle - Stir Fried Rice Vermicelli with Tofu & Vegetable","","Stir-Fried Noodles","69000","","",FALSE,"",TRUE
+768,"Vegito","Fried Noodle - Stir Fried Noodle with Tofu & Vegetable","","Stir-Fried Noodles","69000","","",FALSE,"",TRUE
+769,"Vegito","Fried Noodle - Stir Fried Noodle with Garlic & Bok Choy","","Stir-Fried Noodles","69000","","",FALSE,"",TRUE
+754,"Vegito","Starter - French Fries","","Spring Rolls & Appetizers","40000","","",FALSE,"",TRUE
+755,"Vegito","Starter - Deep-Fried Tofu Skewers","","Spring Rolls & Appetizers","59000","","",FALSE,"",TRUE
+756,"Vegito","Starter - Deep-Fried Enoki Mushrooms with Seaweed","","Spring Rolls & Appetizers","79000","","",FALSE,"",TRUE
+757,"Vegito","Starter - Deep-Fried Mushrooms Roll","","Spring Rolls & Appetizers","79000","","",FALSE,"",TRUE
+758,"Vegito","Starter - Deep-Fried Seaweed Tofu Roll","","Spring Rolls & Appetizers","69000","","",FALSE,"",TRUE
+753,"Vegito","New - Grilled Vegetable Skewers","","Grilled & Pan-Fried","79000","","",FALSE,"",TRUE
+759,"Vegito","Served with Rice - Shiitake Mushrooms Fried Seaweed with Garlic Sauce","","Grilled & Pan-Fried","79000","","",FALSE,"",TRUE
+760,"Vegito","Served with Rice - Bok Choy with Enoki Mushroom Sauce","","Grilled & Pan-Fried","79000","","",FALSE,"",TRUE
+761,"Vegito","Served with Rice - Tofu Shake with Lemongrass and Butter","","Grilled & Pan-Fried","69000","","",FALSE,"",TRUE
+762,"Vegito","Served with Rice - Tofu Roll with Seaweed and Garlic Sauce","","Grilled & Pan-Fried","79000","","",FALSE,"",TRUE
+763,"Vegito","Served with Rice - Grilled Mushroom Skewers","","Grilled & Pan-Fried","79000","","",FALSE,"",TRUE
+764,"Vegito","Served with Rice - Braised Eggplant with Lemongrass","","Grilled & Pan-Fried","69000","","",FALSE,"",TRUE
+709,"Vegito","Clay Pot - Braised Tofu & Pineapple","","Clay Pot Dishes","69000","","",FALSE,"",TRUE
+710,"Vegito","Clay Pot - Braised Shiitake Mushroom & Radish with Corn Pepper","","Clay Pot Dishes","79000","","",FALSE,"",TRUE
+731,"Vegito","Main - Simmered Tofu with Soy & Honey Sauce","","Tofu Specialties","69000","","",FALSE,"",TRUE
+732,"Vegito","Main - Fried Tofu with Garlic Sauce & Rice","","Tofu Specialties","69000","","",FALSE,"",TRUE
+733,"Vegito","Tomato - Fried Tofu with Tomato Sauce","","Tofu Specialties","69000","","",FALSE,"",TRUE
+734,"Vegito","Tomato - White Tofu with Tomato Sauce","","Tofu Specialties","69000","","",FALSE,"",TRUE
+735,"Vegito","Tomato - Stuffed Tofu with Mushrooms, Tomato Sauce","","Tofu Specialties","79000","","",FALSE,"",TRUE
+736,"Vegito","Tomato - Tofu Ball with Tomato Sauce","","Tofu Specialties","79000","","",FALSE,"",TRUE
+737,"Vegito","Tomato - Young Tofu with Mushroom Sauce","","Tofu Specialties","79000","","",FALSE,"",TRUE
+681,"Vegito","Salad - Fruit Salad with Passion Fruit Dressing","","Fresh Salads","79000","","",FALSE,"",TRUE
+92,"OK Pizza","Hawaii","Tomato sauce, ham, mozzarella, cheddar, pineapple","Meat","139000","","",FALSE,"",TRUE
+89,"OK Pizza","Vegetarian","Tomato sauce, red onion, mushrooms, paprika, tomatoes cherry, mozzarella, cheddar, olives, italian herbs","Vegetarian","129000","","",FALSE,"",TRUE
+100,"OK Pizza","Surf & Turf","Tomato sauce, white meat seafood, smoked bacon, red onion, mozzarella, cheddar, tomato sauce, italian herbs","Fish & Seafood","149000","","",FALSE,"",TRUE
+88,"OK Pizza","Margherita","Tomato sauce, mozzarella, cheddar, tomatoes cherry, italian herbs, basil","Vegetarian","109000","109000","",TRUE,"",TRUE
+90,"OK Pizza","Pesto","Pesto sauce, tomatoes cherry, mozzarella, cheddar, italian herbs","Vegetarian","139000","139000","1",TRUE,"",TRUE
+95,"OK Pizza","Ukraina","Tomato sauce, red onion, ukrainian sausage, mozzarella, cheddar, smoked bacon, italian herbs","Meat","139000","","",FALSE,"",TRUE
+97,"OK Pizza","Cheese Chicken","Cream sauce, marinated chicken, mozzarella, cheddar, tomatoes cherry, parmesan, italian herbs","Meat","139000","","",FALSE,"",TRUE
+99,"OK Pizza","Sea Food","Tomato sauce, red onion, seasonal sea food mix, mozzarella, cheddar, italian herbs","Fish & Seafood","149000","","",FALSE,"",TRUE
+101,"OK Pizza","Mr Tom (Shrimps)","Cream sauce, shrimp, mozzarella, cheddar, parmesan, italian herbs","Fish & Seafood","159000","","",FALSE,"",TRUE
+102,"OK Pizza","Salmon","Cream sauce, mozzarella, cheddar, smoked salmon, parmesan, italian herbs","Fish & Seafood","169000","","",FALSE,"",TRUE
+104,"OK Pizza","Carbonara","Cream sauce, smoked bacon, mozzarella, cheddar, parmesan, tomato cherry, red onion, italian herbs","Meat","169000","","",FALSE,"",TRUE
+105,"OK Pizza","Ham & Mushrooms","Tomato sauce, ham, mushrooms, mozzarella, cheddar, italian herbs","Meat","139000","","",FALSE,"",TRUE
+107,"OK Pizza","Super Meat","Tomato sauce, marinated beef and chicken, pepperoni, smoked bacon, mozzarella, cheddar, italian herbs","Meat","169000","","",FALSE,"",TRUE
+93,"OK Pizza","Pepperoni","Tomato sauce, mozzarella, cheddar, pepperoni, italian herbs","Meat","129000","","",FALSE,"",TRUE
+94,"OK Pizza","Italiano Con Pepperoni","Tomato sauce, pepperoni, mushrooms, mozzarella, cheddar, olives, italian herbs","Meat","139000","","",FALSE,"",TRUE
+96,"OK Pizza","Piggy Peppa","Tomato sauce, mozzarella, cheddar, ham, pepperoni, smoked bacon, italian herbs","Meat","139000","","",FALSE,"",TRUE
+98,"OK Pizza","Don Bacon","Tomato sauce, red onion, marinated chicken, mozzarella, cheddar, smoked bacon, italian herbs","Meat","149000","","",FALSE,"",TRUE
+103,"OK Pizza","Bulgogi","Tomato sauce, red onion, beef marinated in Bulgogi sauce, mozzarella, cheddar, tomato, italian herbs","Meat","159000","","",FALSE,"",TRUE
+106,"OK Pizza","Bluegogi","Cream sauce, beef marinated in Bulgogi sauce, onions, mozzarella, cheddar, mushrooms, dorblu, parmesan, italian herbs","Meat","169000","","",FALSE,"",TRUE
+91,"OK Pizza","4 Cheese","Cream sauce, mozzarella, cheddar, dorblu, parmesan, italian herbs","Vegetarian","169000","","",FALSE,"",TRUE
+307,"Aroi (Thai)","PAD PRIEW WHAN","Sweet and sour chicken","Stir-Fries","80000","","",FALSE,"",TRUE
+311,"Aroi (Thai)","PAD KRAPOW NUA","Spicy Thai basil beef with rice","Stir-Fries","110000","","",FALSE,"",TRUE
+312,"Aroi (Thai)","PAD KRAPOW THALE","Spicy Thai seafood basil with rice","Stir-Fries","120000","","",FALSE,"",TRUE
+308,"Aroi (Thai)","NUEA PAD NAMMAN HOI","Sauted beef with oyster sauce","Specialties","110000","","",FALSE,"",TRUE
+309,"Aroi (Thai)","PAD THAI THALE","Seafood Pad Thai","Stir-Fries","120000","","",FALSE,"",TRUE
+297,"Aroi (Thai)","SOM TUM THALE","Papaya salad with seafood","Salads","120000","","",FALSE,"",TRUE
+296,"Aroi (Thai)","SOM TUM THAI","Thai papaya salad with dried shrimps","Salads","50000","","",FALSE,"",TRUE
+298,"Aroi (Thai)","KOR MOO YANG JIM JAEW","Grilled pork neck with spicy tamarind sauce","Grilled & BBQ","80000","","",FALSE,"",TRUE
+300,"Aroi (Thai)","YUM WOON SEN THALE","Seafood glass noodles salad","Salads","120000","","",FALSE,"",TRUE
+301,"Aroi (Thai)","YUM WOON SEN MOO SAAP","Minced pork glass noodles salad","Salads","80000","","",FALSE,"",TRUE
+302,"Aroi (Thai)","YUM NUA YANG","Grilled beef salad","Grilled & BBQ","120000","","",FALSE,"",TRUE
+304,"Aroi (Thai)","KUNG CHAE NAMPLA","Raw prawn salad with spicy sauce","Appetizers","120000","","",FALSE,"",TRUE
+305,"Aroi (Thai)","KAI JEOW MOO SAP","Thai pork omelette","Appetizers","50000","","",FALSE,"",TRUE
+314,"Aroi (Thai)","KHAO PAD THALE","Thai seafood fried rice","Fried Rice","120000","","",FALSE,"",TRUE
+315,"Aroi (Thai)","TOM YUM GOONG","Tom Yum prawn soup","Soups","120000","","",FALSE,"",TRUE
+316,"Aroi (Thai)","TOM YUM MOO","Tom Yum pork soup","Soups","80000","","",FALSE,"",TRUE
+317,"Aroi (Thai)","TOM KHA GAI","Chicken coconut soup","Soups","80000","","",FALSE,"",TRUE
+319,"Aroi (Thai)","GAENG KIEW WAN GAI","Green chicken curry","Curries","80000","","",FALSE,"",TRUE
+320,"Aroi (Thai)","GAENG KIEW WAN NUA","Green beef curry","Curries","110000","","",FALSE,"",TRUE
+322,"Aroi (Thai)","KHAO NIAO MAMUANG","Mango sticky rice with coconut milk","Desserts","80000","","",FALSE,"",TRUE
+299,"Aroi (Thai)","KOR NUE YANG JIM JAEW","Grilled beef with spicy tamarind sauce","Grilled & BBQ","110000","","",FALSE,"",TRUE
+303,"Aroi (Thai)","YUM MOO YANG","Grilled pork salad","Grilled & BBQ","80000","","",FALSE,"",TRUE
+306,"Aroi (Thai)","PAD PAK RUAM","Stir-fried mixed veggies","Stir-Fries","60000","","",FALSE,"",TRUE
+310,"Aroi (Thai)","PAD KRAPOW MOO SAAP","Spicy Thai basil pork with rice","Stir-Fries","80000","","",FALSE,"",TRUE
+313,"Aroi (Thai)","KHAO PAD GAI","Thai chicken fried rice","Fried Rice","80000","","",FALSE,"",TRUE
+318,"Aroi (Thai)","TOM KHA THALE","Seafood coconut soup","Soups","120000","","",FALSE,"",TRUE
+321,"Aroi (Thai)","GAENG KIEW WAN GOONG","Green prawn curry","Curries","120000","","",FALSE,"",TRUE
+6,"Aroi (Thai)","PAD THAI GOONG","Shrimp Pad Thai","Stir-Fries","120,000 VND","","",FALSE,"",TRUE
+58,"Joya","Beef Burrito (2pcs)","Beef mince, beans, Mexican rice, guacamole, onion, garlic, cumin, oregano, tomato, cheese sauce, tortilla","Burritos","120000","","",FALSE,"",TRUE
+60,"Joya","Chicken Burrito (2pcs)","Chicken, vegetables, mushroom, Mexican rice, cheese sauce, tortilla","Burritos","110,000","","",FALSE,"",TRUE
+63,"Joya","Vegetarian Burrito (2pcs)","Onion, mushrooms, eggplant, zucchini, bell peppers, corn, tofu, guacamole, tortilla","Burritos","95000","","",FALSE,"",TRUE
+67,"Joya","Pork Enchiladas","Pork carnitas, tortilla, Mexican rice, refried beans, salsa verde, sour cream, guacamole, cheese, coriander","Enchiladas","120000","","",FALSE,"",TRUE
+69,"Joya","Vegetarian Enchiladas","Bell peppers, onion, mushrooms, eggplant, zucchini, Mexican rice, tomato, refried beans, salsa verde, cheese, sour cream, avocado","Enchiladas","100000","","",FALSE,"",TRUE
+73,"Joya","Beef Nachos","Beef mince, tomato, onion, cheese, pico de gallo, sour cream, guacamole, pickled jalapeno","Nachos","120000","","",FALSE,"",TRUE
+71,"Joya","Chicken Fajitas (5pcs)","Chicken, onion, bell pepper, cheddar, tortilla, guacamole, pico de gallo, sour cream","Fajitas","120000","","",FALSE,"",TRUE
+74,"Joya","Pork Nachos","Pork carnitas, cheese, pico de gallo, sour cream, guacamole, pickled jalapeno","Nachos","120000","","",FALSE,"",TRUE
+75,"Joya","Chicken Nachos","Chicken, cheese, guacamole, pico de gallo, sour cream, pickled jalapeno","Nachos","120000","","",FALSE,"",TRUE
+76,"Joya","Vegetarian Nachos","Tomato, zucchini, bell peppers, onion, corn, mushrooms, eggplant, cheese","Nachos","100000","","",FALSE,"",TRUE
+72,"Joya","Carne Asada","Australia beef 200g, guacamole, pico de gallo, sour cream, homemade tortilla, chimichurri sauce","Specialties","195000","","",FALSE,"",TRUE
+66,"Joya","Beef Enchiladas","Beef mince, beans, onions, garlic, cumin, oregano, tomato, cheese, avocado, Mexican rice, enchiladas sauce, coriander, sour cream","Enchiladas","120000","","",FALSE,"",TRUE
+61,"Joya","Shrimp Burrito (2pcs)","Shrimp, pico de gallo, vegetables, Mexican rice, beans, guacamole","Burritos","130,000","","",FALSE,"",TRUE
+70,"Joya","Beef Fajitas (5pcs)","Beef, onion, bell pepper, cheddar, tortilla, guacamole, pico de gallo, sour cream","Fajitas","130000","","",FALSE,"",TRUE
+46,"Joya","Salsa Roja","Tomato, onion, garlic, chili, coriander, fried tortilla","Salsas & Sauces","35000","","",FALSE,"",TRUE
+47,"Joya","Chorizo Cheese Sauce","Sausage Chorizo, cheese sauce, tortilla chips","Salsas & Sauces","85,000","","",FALSE,"",TRUE
+49,"Joya","Beef Barbacoa Tacos","Slow cooked beef, cabbage, onion, coriander, guacamole, pickled jalapeno (4pcs)","Tacos","90,000","","",FALSE,"",TRUE
+52,"Joya","Pork Quesadilla","Pork carnitas, vegetables, beans, cheese, guacamole, pico de gallo, sour cream, tortilla","Quesadillas","120000","","",FALSE,"",TRUE
+51,"Joya","Beef Quesadilla","Beef, vegetables, cheese, guacamole, pico de gallo, sour cream, tortilla","Quesadillas","120000","","",FALSE,"",TRUE
+59,"Joya","Pork Burrito (2pcs)","Pulled pork, beans, cheese sauce, guacamole, cabbage, pico de gallo, tortilla","Burritos","115000","","",FALSE,"",TRUE
+64,"Joya","Mushroom Burrito (2pcs)","Mushroom, beans, tofu, guacamole, Mexican rice","Burritos","95000","","",FALSE,"",TRUE
+68,"Joya","Chicken Enchiladas","Chicken, onion, bell peppers, Mexican rice, refried beans, cheese, enchiladas sauce, sour cream, guacamole, coriander","Enchiladas","120000","","",FALSE,"",TRUE
+53,"Joya","Chicken Quesadilla","Chicken, cheese, vegetable, mushroom, guacamole, pico de gallo, sour cream, tortilla","Quesadillas","120000","","",FALSE,"",TRUE
+54,"Joya","Shrimp Quesadilla","Shrimp, cheese, vegetable, beans, guacamole, pico de gallo, sour cream, tortilla","Quesadillas","130,000","","",FALSE,"",TRUE
+56,"Joya","Cheese Quesadilla","Cheese, guacamole, pico de gallo, sour cream, tortilla","Quesadillas","100000","","",FALSE,"",TRUE
+55,"Joya","Chorizo Quesadilla","Chorizo, cheese, vegetable, beans, guacamole, pico de gallo, sour cream, tortilla","Quesadillas","130000","","",FALSE,"",TRUE
+57,"Joya","Vegetarian Quesadilla","Onions, eggplant, zucchini, bell peppers, corn, tofu, beans, mushrooms, cheese, avocado sauce, pico de gallo, sour cream","Quesadillas","100000","","",FALSE,"",TRUE
+48,"Joya","Combo Salsa","Guacamole, salsa Roja, pico de gallo, chorizo cheese sauce, tortilla chips","Salsas & Sauces","110.000","","",FALSE,"",TRUE
+29,"Joya","spicy chicken","Chicken , vegetables, sour cream, guacamole, Mexican sauce","Tacos","90,000 VND","","",FALSE,"",TRUE
+62,"Joya","Chorizo Burrito (2pcs)","Chorizo, egg, vegetables, beans, cheese, onion","Burritos","130,000","","",FALSE,"",TRUE
+1048,"Joya","vegetarian taco","Tomato, zucchini, onion, tofu, eggplant, mushrooms, corn, guacamole, sour-cream","Tacos","80,000","","",FALSE,"",TRUE
+1040,"Joya","Pork carnitas","Pulled pork, cabbage, pico de gallo, guacamole,","Tacos","90,000","","",FALSE,"",TRUE
+1047,"Joya","CHORIZO","Chorizo, onion, cheese, lettuce, guacamole, coriander","","125,000","","",FALSE,"",TRUE
+1046,"Joya","tuna taco","Fresh tuna , lettuce, pico de gallo, sour cream, guaca mole, hot sauce","Tacos","100,000","","",FALSE,"",TRUE
+1044,"Joya","steak taco","Beef steak, lettuce, pico de gallo, guacamole, salsa roja","Tacos","110,000","","",FALSE,"",TRUE
+1043,"Joya","Ground beef taco","Ground beef, lettuce, pico de gallo, cheddar, guacamole, salsa roja","Tacos","110,000","","",FALSE,"",TRUE
+1045,"Joya","spicy shrimp taco","Shrimp, cabbage, Pico de gallo, hot sauce","Tacos","125,000","","",FALSE,"",TRUE
+1041,"Joya","Beef birria","Slow cooke beef, cheese, onion, coriander, guacamole , pickled jalapeno","Tacos","110.000","","",FALSE,"",TRUE
+1049,"Joya","PORK BIRRIA","Pork, cheese , onion, coriander, guaca mole , pickled jalapeno","Tacos","110,000","","",FALSE,"",TRUE
+1050,"Joya","STEAK BURRITO","Beef, lettuce, pico de gallo, bean, cheese, mexican rice, sour cream, salsa roja","Burritos","120,000","","",FALSE,"",TRUE
+1051,"Joya","chicken Wrap","chicken, chesse, pico de Gallo, lettuce, cabbage, salsa roja","Wraps","110,000","","",FALSE,"",TRUE
+1052,"Joya","tuna burrito","fresh tuna , lettuce, pico de gallo, sour cream, guacamole","Burritos","120,000","","",FALSE,"",TRUE
+1053,"Joya","salmon taco","smoked salmon, lettuce, pico de gallo, sour cream, tabasco home made,","Tacos","100,000","","",FALSE,"",TRUE
+1054,"Joya","tuna nacho","fresh tuna, guacamole, soya sauce and wasabi, tabasco home made, sour cream.","Nachos","120,000","","",FALSE,"",TRUE
+1055,"Joya","SHRIMP ENCHILADA","shrimp,bell pepper, onion, bean, rice, cheese, pico de gallo, guacamole, sour cream, enchilada sauce","Enchiladas","130,000","","",FALSE,"",TRUE
+1056,"Joya","GUCAMOLE","fresh avocado, lemon juice, pico de gallo, fried tortilla","Salsas & Sauces","60,000","","",FALSE,"",TRUE
+1057,"Joya","PICO DE GALLO","tomato, onion, chilli, garlic, lemon juice, coriander, fried tortilla","Salsas & Sauces","35,000","","",FALSE,"",TRUE
+1058,"Joya","salmon bagel","smoked salmon, cream cheese, lettuce, guacamole, tabasco home made.","Specialties","120,000","","",FALSE,"",TRUE
+498,"Seafood The Coconut Tree","Sellfish - Grilled with Cheese","","Other Shellfish","109000","","",FALSE,"",TRUE
+34,"Seafood The Coconut Tree","Seafood Soup","Mixed seafood in clear broth","Soups & Mixed Seafood","79,000 VND","","",FALSE,"",TRUE
+446,"Seafood The Coconut Tree","Thai Steamed Clams","","Clams","125000","","",FALSE,"",TRUE
+451,"Seafood The Coconut Tree","Octopus - spicy sauce","","Octopus","140000","","",FALSE,"",TRUE
+493,"Seafood The Coconut Tree","Finger snail with tamarind","","Snails","99000","","",FALSE,"",TRUE
+487,"Seafood The Coconut Tree","Aromatic snails with tamarin sauce","","Snails","185000","","",FALSE,"",TRUE
+489,"Seafood The Coconut Tree","Aromatic snails with corn butter","","Snails","185000","","",FALSE,"",TRUE
+490,"Seafood The Coconut Tree","Aromatic snails with snow salt","","Snails","185000","","",FALSE,"",TRUE
+491,"Seafood The Coconut Tree","Aromatic snails with salt & chilli","","Snails","185000","","",FALSE,"",TRUE
+469,"Seafood The Coconut Tree","Squid in Spicy Sauce","","Squid","175000","","",FALSE,"",TRUE
+473,"Seafood The Coconut Tree","Crab with Garlic Butter","","Crab","255000","","",FALSE,"",TRUE
+462,"Seafood The Coconut Tree","Fried Baby Squid with Fish Sauce","","Fish","165000","","",FALSE,"",TRUE
+465,"Seafood The Coconut Tree","Steamed with ginger","","Soups & Mixed Seafood","150000","","",FALSE,"",TRUE
+494,"Seafood The Coconut Tree","Green Mussel - Steamed with Lemongrass","","Mussels","110000","","",FALSE,"",TRUE
+485,"Seafood The Coconut Tree","Steamed aromatic snails with ginger","","Snails","185000","","",FALSE,"",TRUE
+471,"Seafood The Coconut Tree","Grilled Finger-Snails with Onions","","Snails","99000","","",FALSE,"",TRUE
+458,"Seafood The Coconut Tree","Grilled Octopus with Satay","","Octopus","150000","","",FALSE,"",TRUE
+476,"Seafood The Coconut Tree","Grilled Crab","","Crab","250000","","",FALSE,"",TRUE
+470,"Seafood The Coconut Tree","Grilled Finger-Snails with Garlic Butter","","Snails","99000","","",FALSE,"",TRUE
+477,"Seafood The Coconut Tree","Grilled Shrimp","","Shrimp","135000","","",FALSE,"",TRUE
+452,"Seafood The Coconut Tree","Grilled Oyster with Garlic Butter","","Oysters","135000","","",FALSE,"",TRUE
+463,"Seafood The Coconut Tree","Grilled Baby Squid with Satay","","Squid","155000","","",FALSE,"",TRUE
+478,"Seafood The Coconut Tree","Grilled Shrimp with Salt & Chilli","","Shrimp","145000","","",FALSE,"",TRUE
+480,"Seafood The Coconut Tree","Grilled Shrimp with Garlic Butter","","Shrimp","155000","","",FALSE,"",TRUE
+484,"Seafood The Coconut Tree","Grilled shrimp with cheese","","Shrimp","165000","","",FALSE,"",TRUE
+495,"Seafood The Coconut Tree","Green Mussel - Grilled with Onions","","Mussels","120000","","",FALSE,"",TRUE
+453,"Seafood The Coconut Tree","Grilled Oyster with Cheese","","Oysters","155000","","",FALSE,"",TRUE
+457,"Seafood The Coconut Tree","Grilled Clams with Onions","","Clams","125000","","",FALSE,"",TRUE
+437,"Seafood The Coconut Tree","Grilled Scallops with Onion","","Scallops","155000","","",FALSE,"",TRUE
+499,"Seafood The Coconut Tree","Sellfish - Grilled with Onions","","Other Shellfish","99000","","",FALSE,"",TRUE
+500,"Seafood The Coconut Tree","Sellfish - Grilled with Garlic Butter Sauce","","Other Shellfish","99000","","",FALSE,"",TRUE
+501,"Seafood The Coconut Tree","Sellfish - Grilled with Green Pepper Sauce","","Other Shellfish","109000","","",FALSE,"",TRUE
+502,"Seafood The Coconut Tree","Sesame Snail - Grilled with Onion & Chilli","","Snails","99000","","",FALSE,"",TRUE
+466,"Seafood The Coconut Tree","Grilled Squid with Satay","","Squid","220000","","",FALSE,"",TRUE
+467,"Seafood The Coconut Tree","Grilled Squid with Salt & Chilli","","Squid","215000","","",FALSE,"",TRUE
+497,"Seafood The Coconut Tree","Green Mussel - Grilled with Garlic Butter Sauce","","Mussels","120000","","",FALSE,"",TRUE
+33,"Seafood The Coconut Tree","Shrimp Tempura","Lightly battered fried shrimp","Shrimp","155,000 VND","","",FALSE,"",TRUE
+441,"Seafood The Coconut Tree","Grilled Oyster with Onions","","Oysters","135000","","",FALSE,"",TRUE
+32,"Seafood The Coconut Tree","Grilled Fish","Fresh local fish grilled","Fish","145,000 vnd","","",FALSE,"",TRUE
+482,"Seafood The Coconut Tree","Shrimp with Passionfruit Sauce / Lemon","","Shrimp","165000","","",FALSE,"",TRUE
+486,"Seafood The Coconut Tree","Aromatic snails with galic butter sauce","","Snails","185000","","",FALSE,"",TRUE
+445,"Seafood The Coconut Tree","Steamed Clams with Lemongrass","","Clams","120000","","",FALSE,"",TRUE
+474,"Seafood The Coconut Tree","Crab with Tamarind Sauce","","Crab","255000","","",FALSE,"",TRUE
+475,"Seafood The Coconut Tree","Crab with Corn Butter Sauce","","Crab","255000","","",FALSE,"",TRUE
+439,"Seafood The Coconut Tree","Grilled Scallops with Cheese","","Scallops","165000","","",FALSE,"",TRUE
+440,"Seafood The Coconut Tree","Grilled Scallops Onions & Chilli","","Scallops","155000","","",FALSE,"",TRUE
+444,"Seafood The Coconut Tree","Fresh Oyster and Wasabi & Lemon","","Oysters","145000","","",FALSE,"",TRUE
+468,"Seafood The Coconut Tree","Stir Fried Squid Sweet and Sour","","Squid","175000","","",FALSE,"",TRUE
+438,"Seafood The Coconut Tree","Grilled Scallops with Garlic Butter","","Scallops","145000","","",FALSE,"",TRUE
+514,"Seafood The Coconut Tree","Clams - Grilled with Onions & Peanut","","Clams","120000","","",FALSE,"",TRUE
+516,"Seafood The Coconut Tree","Screws Snail - Steamed with Lemongrass, Ginger & Lime Leaves","","Snails","99000","","",FALSE,"",TRUE
+517,"Seafood The Coconut Tree","Screws Snail - Stir-fried with Curry","","Snails","99000","","",FALSE,"",TRUE
+518,"Seafood The Coconut Tree","Squid Teeth - Grilled with Salt & Chilli","","Squid","99000","","",FALSE,"",TRUE
+506,"Seafood The Coconut Tree","Unicorn Leatherjacket - Grilled with Salt & Chilli","","Fish","Market price (per kg)","","",FALSE,"",TRUE
+520,"Seafood The Coconut Tree","Squid Teeth - Stir-fried with Lemongrass & Chilli","","Squid","99000","","",FALSE,"",TRUE
+510,"Seafood The Coconut Tree","""Duc"" Fish Salad","","Fish","165000","","",FALSE,"",TRUE
+507,"Seafood The Coconut Tree","Unicorn Leatherjacket - Grilled with Garlic Butter","","Fish","Market price (per kg)","","",FALSE,"",TRUE
+508,"Seafood The Coconut Tree","Turmeric Stingray - Stir-fried with Onions","","Fish","185000","","",FALSE,"",TRUE
+511,"Seafood The Coconut Tree","""Mai"" Fish Salad","","Fish","165000","","",FALSE,"",TRUE
+512,"Seafood The Coconut Tree","""Trich"" Fish Salad","","Fish","155000","","",FALSE,"",TRUE
+513,"Seafood The Coconut Tree","Clams - Steamed with Lemongrass & Ginger","","Clams","115000","","",FALSE,"",TRUE
+449,"Seafood The Coconut Tree","Grilled Octopus with Salt & Chilli","","Octopus","145000","","",FALSE,"",TRUE
+450,"Seafood The Coconut Tree","Stir-fried Octopus with Lemongrass & Chilli","","Octopus","140000","","",FALSE,"",TRUE
+464,"Seafood The Coconut Tree","Grilled Baby Squid with Salt","","Squid","155000","","",FALSE,"",TRUE
+472,"Seafood The Coconut Tree","Steamed Crab","","Crab","250000","","",FALSE,"",TRUE
+479,"Seafood The Coconut Tree","Grilled Shrimp with Satay","","Shrimp","150000","","",FALSE,"",TRUE
+481,"Seafood The Coconut Tree","Shrimp with Tamarind Sauce","","Shrimp","155000","","",FALSE,"",TRUE
+483,"Seafood The Coconut Tree","Steamed Shrimp (Coconut water & Beer)","","Shrimp","165000","","",FALSE,"",TRUE
+488,"Seafood The Coconut Tree","Aromatic snails with egg sauce","","Snails","185000","","",FALSE,"",TRUE
+492,"Seafood The Coconut Tree","Stir Fried Finger-Snails with Water Spinach","","Snails","99000","","",FALSE,"",TRUE
+496,"Seafood The Coconut Tree","Green Mussel - Grilled with Green Pepper Sauce","","Mussels","120000","","",FALSE,"",TRUE
+503,"Seafood The Coconut Tree","Sesame Snail - Grilled with Garlic Butter Sauce","","Snails","99000","","",FALSE,"",TRUE
+504,"Seafood The Coconut Tree","Sesame Snail - Grilled with Onion & Peanut","","Snails","99000","","",FALSE,"",TRUE
+505,"Seafood The Coconut Tree","Unicorn Leatherjacket - Grilled","","Fish","Market price (per kg)","","",FALSE,"",TRUE
+509,"Seafood The Coconut Tree","Turmeric Stingray - Steamed with Ginger & Onion","","Fish","175000","","",FALSE,"",TRUE
+515,"Seafood The Coconut Tree","Clams - Grilled with Green Pepper Sauce","","Clams","109000","","",FALSE,"",TRUE
+519,"Seafood The Coconut Tree","Squid Teeth - Fried in Powder","","Squid","99000","","",FALSE,"",TRUE
+197,"Taste of India","Tandoori chicken (half)","","Tandoori & Grilled","130000","","",FALSE,"",TRUE
+202,"Taste of India","Chicken seek kebab","","Tandoori & Grilled","95000","","",FALSE,"",TRUE
+271,"Taste of India","Garlic naan","","Breads","35000","","",FALSE,"",TRUE
+272,"Taste of India","Cheese naan","","Breads","45000","","",FALSE,"",TRUE
+187,"Taste of India","Chilly chicken + rice","","Appetizers","90000","","",FALSE,"",TRUE
+233,"Taste of India","Lamb vindaloo","","Meat Curries","190000","","",FALSE,"",TRUE
+236,"Taste of India","Chicken tikka masala","","Meat Curries","100000","","",FALSE,"",TRUE
+239,"Taste of India","Chicken vindaloo","","Meat Curries","95000","","",FALSE,"",TRUE
+243,"Taste of India","Chicken methi malai","","Meat Curries","100000","","",FALSE,"",TRUE
+244,"Taste of India","Chicken sagwala","","Meat Curries","90000","","",FALSE,"",TRUE
+245,"Taste of India","Chicken masala (dry)","","Meat Curries","95000","","",FALSE,"",TRUE
+194,"Taste of India","Achari potato tikka","","Tandoori & Grilled","85000","","",FALSE,"",TRUE
+205,"Taste of India","Chicken garlic tikka","","Tandoori & Grilled","100000","","",FALSE,"",TRUE
+279,"Taste of India","Butter roti","","Breads","35000","","",FALSE,"",TRUE
+280,"Taste of India","Garlic roti","","Breads","35000","","",FALSE,"",TRUE
+174,"Taste of India","Masala tea (chai)","","Beverages","30000","","",FALSE,"",TRUE
+212,"Taste of India","Mix veg korma","","Vegetarian Curries","95000","","",FALSE,"",TRUE
+213,"Taste of India","Mix veg coconut curry","","Vegetarian Curries","90000","","",FALSE,"",TRUE
+208,"Taste of India","Dal makhni","","Vegetarian Curries","85000","","",FALSE,"",TRUE
+183,"Taste of India","Chicken pakora (10 pieces)","","Appetizers","70000","","",FALSE,"",TRUE
+192,"Taste of India","Plain papadum","","Appetizers","20000","","",FALSE,"",TRUE
+184,"Taste of India","Fish pakora (10 pieces)","","Seafood Curries","80000","","",FALSE,"",TRUE
+209,"Taste of India","Dal tadka","","Vegetarian Curries","80000","","",FALSE,"",TRUE
+189,"Taste of India","Gobi Manchurian","","Appetizers","85000","","",FALSE,"",TRUE
+190,"Taste of India","Prawn chilly + rice","","Seafood Curries","110000","","",FALSE,"",TRUE
+206,"Taste of India","Chana masala","","Vegetarian Curries","85000","","",FALSE,"",TRUE
+210,"Taste of India","Mix veggi curry","","Vegetarian Curries","80000","","",FALSE,"",TRUE
+214,"Taste of India","Mix veg pineapple curry","","Vegetarian Curries","95000","","",FALSE,"",TRUE
+216,"Taste of India","Aloo jida (dry)","","Vegetarian Curries","70000","","",FALSE,"",TRUE
+217,"Taste of India","Aloo gobi","","Vegetarian Curries","80000","","",FALSE,"",TRUE
+218,"Taste of India","Aloo matar","","Vegetarian Curries","80000","","",FALSE,"",TRUE
+185,"Taste of India","Veg samosa","","Appetizers","50000","","",FALSE,"",TRUE
+178,"Taste of India","Mango lassi","","Beverages","45000","","",FALSE,"",TRUE
+182,"Taste of India","Mix veg pakora","","Vegetarian Curries","60000","","",FALSE,"",TRUE
+186,"Taste of India","Chicken samosa","","Appetizers","65000","","",FALSE,"",TRUE
+193,"Taste of India","Tofu tikka","","Specialties","80000","","",FALSE,"",TRUE
+195,"Taste of India","Mix veggi tandoori tikka","","Vegetarian Curries","90000","","",FALSE,"",TRUE
+199,"Taste of India","Chicken tikka","","Tandoori & Grilled","90000","","",FALSE,"",TRUE
+200,"Taste of India","Prawn tikka","","Seafood Curries","170000","","",FALSE,"",TRUE
+203,"Taste of India","Nejami kebab tikka","","Specialties","100000","","",FALSE,"",TRUE
+273,"Taste of India","Cheese garlic naan","","Breads","50000","","",FALSE,"",TRUE
+274,"Taste of India","Cheese chilli naan (spicy)","","Breads","75000","","",FALSE,"",TRUE
+275,"Taste of India","Garlic chilli naan (spicy)","","Breads","50000","","",FALSE,"",TRUE
+276,"Taste of India","Chicken cheese naan","","Breads","70000","","",FALSE,"",TRUE
+278,"Taste of India","Tandoori roti","","Breads","25000","","",FALSE,"",TRUE
+188,"Taste of India","Chicken 65 + rice","","Appetizers","90000","","",FALSE,"",TRUE
+198,"Taste of India","Tandoori chicken (full)","","Tandoori & Grilled","240000","","",FALSE,"",TRUE
+175,"Taste of India","Ginger honey tea","","Beverages","35000","","",FALSE,"",TRUE
+176,"Taste of India","Salted lassi","","Beverages","30000","","",FALSE,"",TRUE
+177,"Taste of India","Sweet lassi","","Beverages","35000","","",FALSE,"",TRUE
+179,"Taste of India","Strawberry lassi","","Beverages","45000","","",FALSE,"",TRUE
+180,"Taste of India","Banana lassi","","Beverages","45000","","",FALSE,"",TRUE
+181,"Taste of India","Onion pakora","","Appetizers","50000","","",FALSE,"",TRUE
+219,"Taste of India","Aloo palak","","Vegetarian Curries","85000","","",FALSE,"",TRUE
+220,"Taste of India","Mushroom masala","","Vegetarian Curries","90000","","",FALSE,"",TRUE
+222,"Taste of India","Matar paneer","","Vegetarian Curries","90000","","",FALSE,"",TRUE
+223,"Taste of India","Butter paneer masala","","Vegetarian Curries","95000","","",FALSE,"",TRUE
+224,"Taste of India","Kadai paneer","","Vegetarian Curries","95000","","",FALSE,"",TRUE
+226,"Taste of India","Sahi paneer","","Vegetarian Curries","90000","","",FALSE,"",TRUE
+227,"Taste of India","Malai kofta","","Vegetarian Curries","90000","","",FALSE,"",TRUE
+228,"Taste of India","Lamb curry","","Meat Curries","180000","","",FALSE,"",TRUE
+230,"Taste of India","Lamb korma","","Meat Curries","190000","","",FALSE,"",TRUE
+231,"Taste of India","Lamb kadai","","Meat Curries","180000","","",FALSE,"",TRUE
+232,"Taste of India","Lamb sagwala","","Meat Curries","180000","","",FALSE,"",TRUE
+247,"Taste of India","Fish masala","","Seafood Curries","120000","","",FALSE,"",TRUE
+270,"Taste of India","Butter naan","","Breads","35000","","",FALSE,"",TRUE
+282,"Taste of India","Dal makhni combo (thali)","Curry, garlic naan, rice, salad, raita","Rice Dishes","110000","","",FALSE,"",TRUE
+266,"Taste of India","Jeera garlic rice","","Rice Dishes","45000","","",FALSE,"",TRUE
+267,"Taste of India","Green peas pulao","","Rice Dishes","50000","","",FALSE,"",TRUE
+268,"Taste of India","Mix veg pulao","","Vegetarian Curries","65000","","",FALSE,"",TRUE
+235,"Taste of India","Butter chicken","","Meat Curries","95000","","",FALSE,"",TRUE
+237,"Taste of India","Chicken korma","","Meat Curries","95000","","",FALSE,"",TRUE
+284,"Taste of India","Butter chicken combo (thali)","Curry, garlic naan, rice, salad, raita","Rice Dishes","140000","","",FALSE,"",TRUE
+238,"Taste of India","Chicken kadai","","Meat Curries","95000","","",FALSE,"",TRUE
+241,"Taste of India","Chicken mango curry","","Meat Curries","95000","","",FALSE,"",TRUE
+242,"Taste of India","Chicken pineapple curry","","Meat Curries","90000","","",FALSE,"",TRUE
+246,"Taste of India","Fish curry","","Seafood Curries","100000","","",FALSE,"",TRUE
+248,"Taste of India","Fish madras","","Seafood Curries","120000","","",FALSE,"",TRUE
+250,"Taste of India","Fish coconut curry","","Seafood Curries","135000","","",FALSE,"",TRUE
+251,"Taste of India","Prawn curry","","Seafood Curries","100000","","",FALSE,"",TRUE
+252,"Taste of India","Prawn masala","","Seafood Curries","120000","","",FALSE,"",TRUE
+253,"Taste of India","Prawn vindaloo","","Seafood Curries","130000","","",FALSE,"",TRUE
+255,"Taste of India","Seafood curry","","Seafood Curries","140000","","",FALSE,"",TRUE
+256,"Taste of India","Seafood masala","","Seafood Curries","145000","","",FALSE,"",TRUE
+257,"Taste of India","Seafood korma","","Seafood Curries","145000","","",FALSE,"",TRUE
+259,"Taste of India","Potato mint onion raita","","Sides & Accompaniments","50000","","",FALSE,"",TRUE
+260,"Taste of India","Cucumber raita","","Sides & Accompaniments","40000","","",FALSE,"",TRUE
+262,"Taste of India","Sweet yogurt","","Sides & Accompaniments","30000","","",FALSE,"",TRUE
+263,"Taste of India","Plain yogurt","","Sides & Accompaniments","25000","","",FALSE,"",TRUE
+264,"Taste of India","Steam rice","","Beverages","20000","","",FALSE,"",TRUE
+191,"Taste of India","Masala papadum","","Appetizers","30000","","",FALSE,"",TRUE
+196,"Taste of India","Pineapple tandoori tikka","","Tandoori & Grilled","90000","","",FALSE,"",TRUE
+201,"Taste of India","Chicken malai tikka","","Tandoori & Grilled","110000","","",FALSE,"",TRUE
+204,"Taste of India","Haryali chicken tikka","","Tandoori & Grilled","100000","","",FALSE,"",TRUE
+207,"Taste of India","Rajma masala","","Vegetarian Curries","80000","","",FALSE,"",TRUE
+211,"Taste of India","Mix veg kolapuri","","Vegetarian Curries","85000","","",FALSE,"",TRUE
+215,"Taste of India","Mix veg kadai (dry)","","Vegetarian Curries","90000","","",FALSE,"",TRUE
+221,"Taste of India","Palak paneer","","Vegetarian Curries","90000","","",FALSE,"",TRUE
+225,"Taste of India","Paneer burji","","Vegetarian Curries","110000","","",FALSE,"",TRUE
+229,"Taste of India","Lamb masala","","Meat Curries","180000","","",FALSE,"",TRUE
+234,"Taste of India","Lamb coconut","","Meat Curries","180000","","",FALSE,"",TRUE
+240,"Taste of India","Chicken coconut curry","","Meat Curries","90000","","",FALSE,"",TRUE
+249,"Taste of India","Fish korma","","Seafood Curries","135000","","",FALSE,"",TRUE
+254,"Taste of India","Prawn korma","","Seafood Curries","120000","","",FALSE,"",TRUE
+258,"Taste of India","Mix veg raita","","Sides & Accompaniments","45000","","",FALSE,"",TRUE
+261,"Taste of India","Plain raita","","Sides & Accompaniments","40000","","",FALSE,"",TRUE
+265,"Taste of India","Jeera rice","","Rice Dishes","40000","","",FALSE,"",TRUE
+269,"Taste of India","Plain naan","","Breads","30000","","",FALSE,"",TRUE
+277,"Taste of India","Potato cheese naan","","Breads","75000","","",FALSE,"",TRUE
+281,"Taste of India","Mix veg combo (thali)","Curry, garlic naan, rice, salad, raita","Vegetarian Curries","110000","","",FALSE,"",TRUE
+283,"Taste of India","Chicken curry combo (thali)","Curry, garlic naan, rice, salad, raita","Rice Dishes","120000","","",FALSE,"",TRUE
+285,"Taste of India","Mutton curry combo (thali)","Curry, garlic naan, rice, salad, raita","Rice Dishes","200000","","",FALSE,"",TRUE
+592,"Am Thuc Viet","Rice fried with chicken thighs","Com chien voi dui ga","Fried Rice","95000","","",FALSE,"",TRUE
+596,"Am Thuc Viet","Fried noodles with seafood","Mi xao hai san / tom / muc","Seafood - Mixed","80000","","",FALSE,"",TRUE
+610,"Am Thuc Viet","Bobia fish hot pot","Lau ca bop","Seafood - Fish","350000","","",FALSE,"",TRUE
+556,"Am Thuc Viet","Beef Braised in Oranges","Beef pieces braised in a sauce with oranges.","Rice Plates","95000","","",FALSE,"",TRUE
+554,"Am Thuc Viet","Sizzling Beef","Shredded beef on an iron plate with pate, egg, onions, oyster sauce.","Rice Plates","95000","","",FALSE,"",TRUE
+547,"Am Thuc Viet","Banh Mi Chicken","Baguette properly filled with chicken, fresh vegetables, sauce. Ask for fresh chilli.","Banh Mi Sandwiches","40000","","",FALSE,"",TRUE
+561,"Am Thuc Viet","Rice Vermicelli with Pork","Thin rice noodles served cold with tangy warm grilled pork, sauce dip.","Stir-Fried Noodles","60000","","",FALSE,"",TRUE
+563,"Am Thuc Viet","Beef 'Pho' Noodle Soup","Famous broth of beef and rice noodles.","Pho & Noodle Soups","80000","","",FALSE,"",TRUE
+564,"Am Thuc Viet","Chicken 'Pho' Noodle Soup","Famous broth of chicken and rice noodles.","Pho & Noodle Soups","80000","","",FALSE,"",TRUE
+591,"Am Thuc Viet","Rice fried with squid","Com chien muc","Seafood - Squid","80000","","",FALSE,"",TRUE
+570,"Am Thuc Viet","Beef slice with spaghetti","Beef shreds & spaghetti in tomato sauce in Vietnamese style.","Stir-Fried Noodles","95000","","",FALSE,"",TRUE
+571,"Am Thuc Viet","Noodle soup with beef / chicken","Pho bo - noodle soup with beef or chicken","Pho & Noodle Soups","95000","","",FALSE,"",TRUE
+574,"Am Thuc Viet","Thai vermicelli with shrimp","Bun thai voi tom - vermicelli in Thai style with shrimp","Seafood - Shrimp","95000","","",FALSE,"",TRUE
+577,"Am Thuc Viet","'Kim Chi' soup with seafood / shrimp + rice","Soup with kimchi, seafood or shrimp, and rice","Seafood - Shrimp","95000","","",FALSE,"",TRUE
+582,"Am Thuc Viet","Steamed rice","Com trang - plain steamed rice","Rice Plates","10000","","",FALSE,"",TRUE
+585,"Am Thuc Viet","Rice fried with egg","Com chien trung - fried rice with egg","Fried Rice","60000","","",FALSE,"",TRUE
+617,"Am Thuc Viet","Fried fresh squid + French fries","Muc chien xu + khoai tay chien","Seafood - Squid","120000","","",FALSE,"",TRUE
+593,"Am Thuc Viet","Rice fried with shrimp + cheese","Com chien tom + pho mai","Seafood - Shrimp","95000","","",FALSE,"",TRUE
+639,"Am Thuc Viet","Sauteed water spinach with shrimp","Stir-fried water spinach with shrimp","Seafood - Shrimp","80000","","",FALSE,"",TRUE
+578,"Am Thuc Viet","Spicy noodles with seafood","Mi cay hai san - spicy noodle soup with seafood","Seafood - Mixed","95000","","",FALSE,"",TRUE
+649,"Am Thuc Viet","Papaya salad with seafood/ shrimp/ beef/ chicken/ squid","Papaya salad with a choice of protein","Salads","95000","","",FALSE,"",TRUE
+653,"Am Thuc Viet","Mango salad with seafood/ shrimp/ beef/ chicken/ squid","Mango salad with a choice of protein","Salads","95000","","",FALSE,"",TRUE
+625,"Am Thuc Viet","Spring rolls with shrimp","Cha gio voi tom (10 cuon)","Seafood - Shrimp","80000","","",FALSE,"",TRUE
+654,"Am Thuc Viet","Steamed shrimp with coconut","Shrimp steamed inside coconut","Seafood - Shrimp","190000","","",FALSE,"",TRUE
+587,"Am Thuc Viet","Rice fried with pineapple + shrimp","Com chien thom + tom","Seafood - Shrimp","80000","","",FALSE,"",TRUE
+623,"Am Thuc Viet","Fresh spring rolls with shrimp","Goi cuon tom","Seafood - Shrimp","80000","","",FALSE,"",TRUE
+600,"Am Thuc Viet","Fried vermicelli with seafood / shrimp / squid","Mien xao hai san / tom / muc","Seafood - Squid","80000","","",FALSE,"",TRUE
+605,"Am Thuc Viet","Fried shrimp with passion fruit sauce + steamed rice","Tom sot chanh day + com","Seafood - Shrimp","110000","","",FALSE,"",TRUE
+648,"Am Thuc Viet","Broccoli stir-fried with seafood/ shrimp/ squid","Broccoli stir-fried with assorted seafood, served with rice","Seafood - Squid","95000","","",FALSE,"",TRUE
+650,"Am Thuc Viet","Vietnamese crispy pancake with seafood/ shrimp/ beef/ chicken/ squid","Banh xeo with various fillings","Seafood - Squid","95000","","",FALSE,"",TRUE
+655,"Am Thuc Viet","Steamed squid with ginger","Squid steamed with slices of ginger","Seafood - Squid","170000","","",FALSE,"",TRUE
+657,"Am Thuc Viet","Grilled squid","Squid grilled over open flame","Seafood - Squid","170000","","",FALSE,"",TRUE
+614,"Am Thuc Viet","Sweet and sour seafood + rice","Hai san xao chua ngot + com","Seafood - Mixed","110000","","",FALSE,"",TRUE
+579,"Am Thuc Viet","Spicy noodles with shrimps","Mi cay tom - spicy noodle soup with shrimp","Seafood - Shrimp","95000","","",FALSE,"",TRUE
+550,"Am Thuc Viet","Chicken Banh Xeo","Classic fried pancake folded over chicken, bean shoots, etc, local style sweet chilli sauce.","Appetizers & Snacks","65000","","",FALSE,"",TRUE
+552,"Am Thuc Viet","Vegetarian Banh Xeo","Classic fried pancake folded over mushrooms, tofu, bean shoots, etc, local style sweet chilli sauce.","Appetizers & Snacks","65000","","",FALSE,"",TRUE
+553,"Am Thuc Viet","Vermicelli Thin Noodles & Pork","Bundles of fine rice noodles with smokey grilled pork.","Stir-Fried Noodles","65000","","",FALSE,"",TRUE
+612,"Am Thuc Viet","Shaking beef + rice","Bo luc lac + com","Rice Plates","110000","","",FALSE,"",TRUE
+565,"Am Thuc Viet","Rice with mushrooms and mixed vegetables","Rice with mushrooms, peppers, onions etc (Vegetarian).","Vegetarian Options","80000","","",FALSE,"",TRUE
+567,"Am Thuc Viet","Rice with shredded chicken (Phu Yen Style)","Boiled white rice with shredded chicken.","Rice Plates","80000","","",FALSE,"",TRUE
+566,"Am Thuc Viet","Rice with grilled pork slice","Boiled white rice with a slice of grilled pork, egg, sweet sauce.","Grilled Dishes","80000","","",FALSE,"",TRUE
+568,"Am Thuc Viet","Chicken rice with 'soft' eggs","Boiled rice with chicken and 'young' eggs.","Rice Plates","80000","","",FALSE,"",TRUE
+569,"Am Thuc Viet","Seasoned ground pork (for rolls)","Seasoned grilled pork sausage meat with vermicelli and salad. Rice paper. Dip. Speciality of Nha Trang.","Grilled Dishes","95000","","",FALSE,"",TRUE
+562,"Am Thuc Viet","Traditional Beef Noodle Soup","Braised beef recipe from Hue, thin noodles in broth.","Pho & Noodle Soups","80000","","",FALSE,"",TRUE
+557,"Am Thuc Viet","Mini-pancakes (Prawn, Pork or Chicken)","Small crispy pancakes with choice of prawn, pork or chicken fillings, sauce dip.","Appetizers & Snacks","70000","","",FALSE,"",TRUE
+558,"Am Thuc Viet","Rice Cake Rolls (Prawns / Pork / Chicken)","Soft sheets of rice cake wrapped around a tasty filling and fresh veg with crispy dried onions on top.","Appetizers & Snacks","60000","","",FALSE,"",TRUE
+560,"Am Thuc Viet","Seafood Noodle soup (Phu Yen style)","Thick chewy noodles in broth with seafood.","Pho & Noodle Soups","70000","","",FALSE,"",TRUE
+580,"Am Thuc Viet","Spicy seafood with cheese + rice","Hai san cay pho mai + com - spicy seafood, cheese, and rice","Seafood - Mixed","120000","","",FALSE,"",TRUE
+573,"Am Thuc Viet","Thai vermicelli with seafood","Bun thai voi hai san - vermicelli in Thai style with seafood","Seafood - Mixed","95000","","",FALSE,"",TRUE
+575,"Am Thuc Viet","Thai vermicelli with beef","Bun thai voi thit bo - vermicelli in Thai style with beef","Stir-Fried Noodles","95000","","",FALSE,"",TRUE
+583,"Am Thuc Viet","Rice fried with garlic","Com chien toi - fried rice with garlic","Fried Rice","40000","","",FALSE,"",TRUE
+607,"Am Thuc Viet","Roasted ribs with pineapple + steamed rice","Suon rim thom + com","Rice Plates","110000","","",FALSE,"",TRUE
+581,"Am Thuc Viet","Spicy shrimp / beef / chicken / ribs with cheese + rice","","Seafood - Shrimp","120000","","",FALSE,"",TRUE
+584,"Am Thuc Viet","Fried rice with vegetables and mushrooms","Com chien rau cu voi nam","Vegetarian Options","50000","","",FALSE,"",TRUE
+586,"Am Thuc Viet","Fried rice with sausage + egg","Com chien xuc xich voi trung","Fried Rice","70000","","",FALSE,"",TRUE
+588,"Am Thuc Viet","Rice fried with chicken","Com chien voi thit ga","Fried Rice","80000","","",FALSE,"",TRUE
+589,"Am Thuc Viet","Fried rice with beef","Com chien voi thit bo","Fried Rice","80000","","",FALSE,"",TRUE
+597,"Am Thuc Viet","Fried noodles with beef / pork / chicken","Mi xao bo / heo / ga","Stir-Fried Noodles","80000","","",FALSE,"",TRUE
+599,"Am Thuc Viet","Crispy fried noodles with chicken / beef / pork","Mi gion xao voi ga / bo / heo","Stir-Fried Noodles","80000","","",FALSE,"",TRUE
+602,"Am Thuc Viet","Fried vermicelli with vegetables + mushrooms","Mien xao rau cu voi nam","Vegetarian Options","60000","","",FALSE,"",TRUE
+603,"Am Thuc Viet","Shrimps with sour and sweet + steamed rice","Tom xao chua ngot + com","Rice Plates","110000","","",FALSE,"",TRUE
+604,"Am Thuc Viet","Stir-fried shrimps with butter and garlic + steamed rice","Tom xao bo toi + com","Seafood - Shrimp","110000","","",FALSE,"",TRUE
+608,"Am Thuc Viet","Stir-fried spicy ribs + steamed rice","Suon xao cay + com","Rice Plates","110000","","",FALSE,"",TRUE
+609,"Am Thuc Viet","Thai hot pot with seafood","Lau thai hai san","Seafood - Mixed","350000","","",FALSE,"",TRUE
+613,"Am Thuc Viet","Seafood fried with oyster sauce + rice","Hai san xao dau hau + com","Rice Plates","110000","","",FALSE,"",TRUE
+618,"Am Thuc Viet","Beef fried cheese rolls + french fries","Bo cuon pho mai chien xu + khoai tay chien","Appetizers & Snacks","120000","","",FALSE,"",TRUE
+620,"Am Thuc Viet","Stir-fried chicken with chili + rice","Ga xao sa ot + com","Rice Plates","110000","","",FALSE,"",TRUE
+626,"Am Thuc Viet","Spring rolls with corn","Cha gio bap (10 cuon)","Spring Rolls","70000","","",FALSE,"",TRUE
+621,"Am Thuc Viet","Sweet and sour chicken + rice","Ga xao chua ngot + com","Rice Plates","110000","","",FALSE,"",TRUE
+622,"Am Thuc Viet","Fried beef with five spices + rice","Bo xao ngu vi + com","Rice Plates","110000","","",FALSE,"",TRUE
+624,"Am Thuc Viet","Spring rolls with meat","Cha gio voi thit (10 cuon)","Spring Rolls","70000","","",FALSE,"",TRUE
+637,"Am Thuc Viet","Sauteed garlic spinach","Stir-fried spinach with garlic","Vegetarian Options","60000","","",FALSE,"",TRUE
+629,"Am Thuc Viet","Fried chicken + french fries","Thit ga chien xu + khoai tay chien","Appetizers & Snacks","120000","","",FALSE,"",TRUE
+640,"Am Thuc Viet","Boiled okra","Simple boiled okra","Vegetarian Options","50000","","",FALSE,"",TRUE
+646,"Am Thuc Viet","Garlic sauteed broccoli","Broccoli stir-fried with garlic","Vegetarian Options","70000","","",FALSE,"",TRUE
+652,"Am Thuc Viet","Stir-fry chicken with sour and sweet","Sweet and sour chicken stir-fried with vegetables","Rice Plates","110000","","",FALSE,"",TRUE
+656,"Am Thuc Viet","Grilled shrimp","Shrimp grilled over open flame","Seafood - Shrimp","170000","","",FALSE,"",TRUE
+631,"Am Thuc Viet","Fried mackerel with Spicy-sour sauce + rice + salad","Ca thu chien sot chua cay + com + salad","Salads","120000","","",FALSE,"",TRUE
+638,"Am Thuc Viet","Sauteed water spinach with beef","Stir-fried water spinach with beef","Vegetarian Options","80000","","",FALSE,"",TRUE
+641,"Am Thuc Viet","Fried okra with garlic","Stir-fried okra with garlic","Vegetarian Options","60000","","",FALSE,"",TRUE
+643,"Am Thuc Viet","Beef sauteed bok choy","Bok choy stir-fried with beef","Vegetarian Options","80000","","",FALSE,"",TRUE
+658,"Am Thuc Viet","Kebab - Pork","Pork skewers with vegetables","Grilled Dishes","110000","","",FALSE,"",TRUE
+659,"Am Thuc Viet","Kebab - Beef","Beef skewers with vegetables","Grilled Dishes","140000","","",FALSE,"",TRUE
+660,"Am Thuc Viet","Kebab - Chicken","Chicken skewers with vegetables","Grilled Dishes","110000","","",FALSE,"",TRUE
+661,"Am Thuc Viet","Kebab - Crocodile","Crocodile skewers with vegetables","Grilled Dishes","140000","","",FALSE,"",TRUE
+662,"Am Thuc Viet","Kebab - Ostrich","Ostrich skewers with vegetables","Grilled Dishes","140000","","",FALSE,"",TRUE
+647,"Am Thuc Viet","Broccoli chicken / beef / pork","Stir-fried broccoli with meat, served with rice","Vegetarian Options","95000","","",FALSE,"",TRUE
+663,"Am Thuc Viet","Kebab - Vegetable","Vegetable skewers","Vegetarian Options","85000","","",FALSE,"",TRUE
+664,"Am Thuc Viet","Grilled corn","Charred corn on the cob","Vegetarian Options","40000","","",FALSE,"",TRUE
+633,"Am Thuc Viet","Butterfish fried with fish sauce + rice + salad","Ca chim chien nuoc mam + com + salad","Salads","120000","","",FALSE,"",TRUE
+634,"Am Thuc Viet","Fish fried red snapper with tomato sauce + rice + salad","Ca dieu hong chien gion sot ca + com + salad","Salads","120000","","",FALSE,"",TRUE
+651,"Am Thuc Viet","Diced beef","Cubes of stir-fried beef","Rice Plates","110000","","",FALSE,"",TRUE
+572,"Am Thuc Viet","Noodle soup with seafood / shrimp","Pho hai san / tom - noodle soup with seafood or shrimp","Seafood - Shrimp","95000","","",FALSE,"",TRUE
+576,"Am Thuc Viet","'Kim Chi' soup with tofu + rice","Soup with kimchi, tofu, and rice","Vegetarian Options","85000","","",FALSE,"",TRUE
+549,"Am Thuc Viet","Banh Mi Roasted Pork","Baguette with smokey pork marinated with lemongrass.","Banh Mi Sandwiches","40000","","",FALSE,"",TRUE
+546,"Am Thuc Viet","Banh Mi Marinated Pork","Either as a plate with baguette, or as a filled baguette.","Banh Mi Sandwiches","40000","","",FALSE,"",TRUE
+548,"Am Thuc Viet","Banh Mi meatballs & sauce","Either as a plate with baguette, or as a filled baguette.","Banh Mi Sandwiches","45000","","",FALSE,"",TRUE
+551,"Am Thuc Viet","Seafood Banh Xeo","Classic fried pancake folded over seafood, bean shoots, etc, local style sweet chilli sauce.","Appetizers & Snacks","79000","","",FALSE,"",TRUE
+555,"Am Thuc Viet","Yellow Beef Stew","Beef pieces braised in a yellow sauce.","Rice Plates","95000","","",FALSE,"",TRUE
+559,"Am Thuc Viet","Noodle Soup with sliced fishcake (Phu Yen style)","Thick chewy noodles in broth with compressed fishcake.","Seafood - Fish","60000","","",FALSE,"",TRUE
+590,"Am Thuc Viet","Rice fried with seafood / shrimp","Com chien hai san / tom","Seafood - Shrimp","80000","","",FALSE,"",TRUE
+594,"Am Thuc Viet","Rice fried with chicken / beef + cheese","Com chien voi thit ga / bo + pho mai","Fried Rice","95000","","",FALSE,"",TRUE
+595,"Am Thuc Viet","Fried noodles with vegetables + mushrooms","Mi xao rau cu voi nam","Vegetarian Options","60000","","",FALSE,"",TRUE
+598,"Am Thuc Viet","Crispy fried noodles with seafood / shrimp / squid","Mi gion xao voi hai san / tom / muc","Seafood - Squid","80000","","",FALSE,"",TRUE
+601,"Am Thuc Viet","Fried vermicelli with chicken / beef / pork","Mien xao ga / bo / heo","Stir-Fried Noodles","80000","","",FALSE,"",TRUE
+606,"Am Thuc Viet","Roasted ribs with honey + steamed rice","Suon rim mat ong + com","Rice Plates","110000","","",FALSE,"",TRUE
+611,"Am Thuc Viet","Stir-fried beef with chili + rice","Bo xao sa ot + com","Rice Plates","110000","","",FALSE,"",TRUE
+615,"Am Thuc Viet","Seafood sauteed with chili + rice","Hai san xao sa ot + com","Rice Plates","110000","","",FALSE,"",TRUE
+616,"Am Thuc Viet","Fried fresh shrimp + French fries","Tom chien xu + khoai tay chien","Seafood - Shrimp","120000","","",FALSE,"",TRUE
+619,"Am Thuc Viet","Chicken fried cheese rolls + french fries","Thit ga cuon pho mai chien xu + khoai tay chien","Appetizers & Snacks","120000","","",FALSE,"",TRUE
+627,"Am Thuc Viet","Spring rolls with corn and meat","Cha gio bap voi thit (10 cuon)","Spring Rolls","80000","","",FALSE,"",TRUE
+628,"Am Thuc Viet","Spring rolls with corn and shrimp","Cha gio bap voi tom (10 cuon)","Seafood - Shrimp","80000","","",FALSE,"",TRUE
+630,"Am Thuc Viet","Fried mackerel with tomato sauce + rice + salad","Ca thu chien sot ca + com + salad","Salads","120000","","",FALSE,"",TRUE
+632,"Am Thuc Viet","Pomfret fry with Spicy-sour sauce + rice + salad","Ca chim chien sot chua cay + com","Salads","120000","","",FALSE,"",TRUE
+636,"Am Thuc Viet","Mixed fried vegetables","Assorted vegetables fried together","Vegetarian Options","70000","","",FALSE,"",TRUE
+642,"Am Thuc Viet","Sauteed bok choy with garlic","Stir-fried bok choy with garlic","Vegetarian Options","60000","","",FALSE,"",TRUE
+644,"Am Thuc Viet","Seafood/ shrimp/ squid sauteed with bok choy","Bok choy stir-fried with assorted seafood","Seafood - Squid","80000","","",FALSE,"",TRUE
+645,"Am Thuc Viet","Bok choy stir fry with chicken / beef / pork","Bok choy stir-fried with meat, served with rice","Vegetarian Options","80000","","",FALSE,"",TRUE
+635,"Am Thuc Viet","Crispy red snapper fish with sauce tart + rice + salad","Ca dieu hong chien gion sot chua cay + com","Salads","120000","","",FALSE,"",TRUE
+39,"Desserts","Chocolate Cake","Rich chocolate layer cake","Cakes","80,000 VND","","",FALSE,"",TRUE
+861,"Desserts","Vanilla Ice Cream","","Ice Creams","25000","","",FALSE,"",TRUE
+862,"Desserts","Chocolate Ice Cream","","Ice Creams","25000","","",FALSE,"",TRUE
+863,"Desserts","Coconut Ice Cream","","Ice Creams","25000","","",FALSE,"",TRUE
+864,"Desserts","Strawberry Ice Cream","","Ice Creams","25000","","",FALSE,"",TRUE
+865,"Desserts","Mango Ice Cream","","Ice Creams","25000","","",FALSE,"",TRUE
+866,"Desserts","Passionfruit Ice Cream","","Ice Creams","25000","","",FALSE,"",TRUE
+867,"Desserts","Coffee Ice Cream","","Ice Creams","25000","","",FALSE,"",TRUE
+868,"Desserts","Taro Ice Cream","","Ice Creams","25000","","",FALSE,"",TRUE
+869,"Desserts","Mint Chocolate Ice Cream","","Ice Creams","30000","","",FALSE,"",TRUE
+870,"Desserts","Rum Raisin Ice Cream","","Ice Creams","30000","","",FALSE,"",TRUE
+871,"Desserts","Black Sesame Ice Cream","","Ice Creams","30000","","",FALSE,"",TRUE
+872,"Desserts","Matcha Ice Cream","","Ice Creams","30000","","",FALSE,"",TRUE
+873,"Desserts","Durian Ice Cream","","Ice Creams","30000","","",FALSE,"",TRUE
+874,"Desserts","Strawberry Yogurt Bowl","","Fruit","70000","","",FALSE,"",TRUE
+875,"Desserts","Kiwi Yogurt Bowl","","Fruit","100000","","",FALSE,"",TRUE
+876,"Desserts","Fruit Plate","","Fruit","100000","","",FALSE,"",TRUE
+877,"Desserts","Fruit Skewers","","Fruit","25000","","",FALSE,"",TRUE
+879,"Desserts","Oreo Cake","","Cakes","70000","","",FALSE,"",TRUE
+880,"Desserts","Ice Cream Waffle","","Cakes","60000","","",FALSE,"",TRUE
+881,"Desserts","Banana Cheese Cake","","Cheese Cake","65000","","",FALSE,"",TRUE
+882,"Desserts","Ice Cream Boat","","Cakes","75000","","",FALSE,"",TRUE
+883,"Desserts","Ice Cream Coconut Shell","","Cakes","50000","","",FALSE,"",TRUE
+884,"Desserts","Tropical Ice Cream Pancake","","Pancakes","75000","","",FALSE,"",TRUE
+885,"Desserts","Tropical Ice Cream Cup","","Cakes","70000","","",FALSE,"",TRUE
+886,"Desserts","Avocado Pancake","","Pancakes","60000","","",FALSE,"",TRUE
+887,"Desserts","Banana Pancake","","Pancakes","60000","","",FALSE,"",TRUE
+888,"Desserts","Avocado Pancake with Ice Cream","","Pancakes","75000","","",FALSE,"",TRUE
+889,"Desserts","Strawberry Banana Pancake with Ice Cream","","Pancakes","75000","","",FALSE,"",TRUE
+890,"Desserts","Fresh Fruit Pancake","","Pancakes","60000","","",FALSE,"",TRUE
+891,"Desserts","Mango Strawberry Pancake","","Pancakes","60000","","",FALSE,"",TRUE
+892,"Desserts","Chocolate Cake","","Cakes","85000","","",FALSE,"",TRUE
+893,"Desserts","Cheesecake Mix","","Cheese Cake","95000","","",FALSE,"",TRUE
+894,"Desserts","Tiramisu","","Cakes","65000","","",FALSE,"",TRUE
+895,"Desserts","Ice Cream Banana Split","","Ice Creams","75000","","",FALSE,"",TRUE
+896,"Desserts","Red Velvet","","Cakes","70000","","",FALSE,"",TRUE
+897,"Desserts","New York Cheese Cake","","Cheese Cake","95000","","",FALSE,"",TRUE
+898,"Desserts","Salted Caramel Coffee Cake","","Cakes","65000","","",FALSE,"",TRUE
+878,"Desserts","Flamed Cheese Cake","","Cheese Cake","60000","","",FALSE,"",TRUE
+354,"Burger Hut","Chicken Burger & Fries","-","Sides & Snacks","75000","","",FALSE,"",TRUE
+362,"Burger Hut","Beef Burger & Fries","-","Sides & Snacks","85000","","",FALSE,"",TRUE
+365,"Burger Hut","Beef Burger Cheese","Egg, pineapple & fries","Burgers","120000","","",FALSE,"",TRUE
+366,"Burger Hut","Double Beef Burger & Fries","-","Sides & Snacks","125000","","",FALSE,"",TRUE
+358,"Burger Hut","Double Chicken Burger & Fries","-","Sides & Snacks","115000","","",FALSE,"",TRUE
+323,"Burger Hut","Falafel with Hummus Set","Hummus, salad, and fries","Middle Eastern","95000","","",FALSE,"",TRUE
+325,"Burger Hut","Falafel Wrap Combo","Falafel wrap with fries","Middle Eastern","85000","","",FALSE,"",TRUE
+326,"Burger Hut","Falafel Salad","Falafel served with salad","Middle Eastern","80000","","",FALSE,"",TRUE
+328,"Burger Hut","Chicken Doner","Chicken doner wrap/portion","Wraps & Doners","65000","","",FALSE,"",TRUE
+329,"Burger Hut","Veggie Doner","Vegetarian doner option","Wraps & Doners","55000","","",FALSE,"",TRUE
+331,"Burger Hut","Peanut Green Salad","Green salad topped with peanuts","Salads","65000","","",FALSE,"",TRUE
+332,"Burger Hut","Chickpea Salad","Salad with chickpeas","Salads","75000","","",FALSE,"",TRUE
+333,"Burger Hut","American Corn Salad","Sweet corn salad, American style","Salads","65000","","",FALSE,"",TRUE
+340,"Burger Hut","Crispy Fish Burger with Egg","With egg and fries","Burgers","100000","","",FALSE,"",TRUE
+335,"Burger Hut","Greek Salad","Traditional Greek style salad","Salads","75000","","",FALSE,"",TRUE
+336,"Burger Hut","Mix Fruit Salad (Sweet)","Sweet fruit salad","Desserts","90000","","",FALSE,"",TRUE
+339,"Burger Hut","Spicy Crispy Fish Burger","With cheese and fries","Burgers","95000","","",FALSE,"",TRUE
+342,"Burger Hut","Veggie Burrito","-","Wraps & Doners","95000","","",FALSE,"",TRUE
+343,"Burger Hut","Chicken Burrito","-","Wraps & Doners","100000","","",FALSE,"",TRUE
+344,"Burger Hut","Beef Burrito","-","Wraps & Doners","110000","","",FALSE,"",TRUE
+345,"Burger Hut","Veggie Shawarma","Served with fries","Wraps & Doners","85000","","",FALSE,"",TRUE
+359,"Burger Hut","Double Chicken Cheese & Fries","-","Sides & Snacks","125000","","",FALSE,"",TRUE
+347,"Burger Hut","Beef Shawarma","Served with fries","Wraps & Doners","100000","","",FALSE,"",TRUE
+350,"Burger Hut","Crispy Chicken Nuggets","-","Sides & Snacks","80000","","",FALSE,"",TRUE
+348,"Burger Hut","Spicy French Fry","-","Sides & Snacks","55000","","",FALSE,"",TRUE
+351,"Burger Hut","Crispy Squid","Deep fried","Sides & Snacks","100000","","",FALSE,"",TRUE
+352,"Burger Hut","Cheese Stick","-","Sides & Snacks","50000","","",FALSE,"",TRUE
+355,"Burger Hut","Chicken Cheese, Bacon & Fries","-","Sides & Snacks","95000","","",FALSE,"",TRUE
+357,"Burger Hut","Chicken Cheese Burger","Egg, pineapple & fries","Burgers","110000","","",FALSE,"",TRUE
+363,"Burger Hut","Beef Cheese, Bacon & Fries","-","Sides & Snacks","95000","","",FALSE,"",TRUE
+364,"Burger Hut","Beef Cheese, Bacon, Egg & Fries","-","Sides & Snacks","110000","","",FALSE,"",TRUE
+368,"Burger Hut","Double Beef Cheese, Bacon, Egg & Fries","-","Sides & Snacks","145000","","",FALSE,"",TRUE
+369,"Burger Hut","Double Beef Cheese","Egg, pineapple & fries","Burgers","165000","","",FALSE,"",TRUE
+324,"Burger Hut","Falafel with Hummus Naan","Hummus, chilli naan, and salad","Middle Eastern","90000","","",FALSE,"",TRUE
+327,"Burger Hut","Beef Doner","Beef doner wrap/portion","Wraps & Doners","75000","","",FALSE,"",TRUE
+330,"Burger Hut","Green Garden Salad","Fresh mixed green garden salad","Salads","55000","","",FALSE,"",TRUE
+334,"Burger Hut","Chicken Creamy Salad","Chicken with creamy dressing","Salads","85000","","",FALSE,"",TRUE
+337,"Burger Hut","Mix Fruit Creamy Salad","Creamy sweet fruit salad","Desserts","100000","","",FALSE,"",TRUE
+338,"Burger Hut","Crispy Fish Burger & Fries","Classic crispy fish burger with fries","Sides & Snacks","80000","","",FALSE,"",TRUE
+341,"Burger Hut","Crispy Fish Cheese Burger","With BBQ sauce and fries","Burgers","110000","","",FALSE,"",TRUE
+346,"Burger Hut","Chicken Shawarma","Served with fries","Wraps & Doners","95000","","",FALSE,"",TRUE
+349,"Burger Hut","Cheese French Fry","-","Sides & Snacks","75000","","",FALSE,"",TRUE
+353,"Burger Hut","KFC Style Chicken","Deep fried chicken","Fried Chicken","100000","","",FALSE,"",TRUE
+356,"Burger Hut","Chicken Cheese, Bacon, Egg & Fries","-","Sides & Snacks","110000","","",FALSE,"",TRUE
+360,"Burger Hut","Double Chicken Cheese, Bacon, Egg & Fries","-","Sides & Snacks","145000","","",FALSE,"",TRUE
+361,"Burger Hut","Double Chicken Cheese Burger","Bacon, egg & fries with pineapple","Burgers","170000","","",FALSE,"",TRUE
+367,"Burger Hut","Double Beef Cheese & Fries","-","Sides & Snacks","135000","","",FALSE,"",TRUE
